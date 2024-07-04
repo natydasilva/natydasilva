@@ -1,19 +1,72 @@
 project:
   type: website
+  output-dir: docs
+
+    
 
 website:
-  title: "natydasilva"
+  page-navigation: true
+  title: "Natalia da silva"
+  site-url: "https://natydasilva.com/"
+  google-analytics: "G-2J79YYG9CZ"
+  page-footer:
+    left: "Website made with [Quarto](https://quarto.org/), by Natalia da Silva. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    right:
+      - icon: github
+        href: https://github.com/natydasilva
+      - icon: linkedin
+        href: https://www.linkedin.com/in/natalia-da-silva-770700a1/
+      - icon: envelope
+        href: natalia.dasilva@fcea.edu.uy
+      
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: About
+        menu:
+          - text: English
+            href: about.qmd
+          - text: Español
+            href: about-es.qmd
+      # - text: Posts
+      #   menu:
+      #     - text: All posts
+      #       href: posts/index.qmd
+      #     - text: English
+      #       href: posts/en.qmd
+      #     - text: Español
+      #       href: posts/es.qmd
+      - text: Teaching
+        href: teaching/index.qmd
+      - text: Talks
+        href: talks/index.qmd
+      - text: Research
+        href: research/index.qmd
+      - icon: github
+        href: https://github.com/natydasilva
+      - icon: linkedin
+        href: https://www.linkedin.com/in/natalia-da-silva-770700a1/
+
+lang: pt
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    smooth-scroll: true
+    theme:
+      - pulse
+      - custom.scss
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.beamilz\.com\/**'
+    citations-hover: true
+    footnotes-hover: true
     toc: true
+    code-link: true
 
 editor: visual
 
+comments:
+  giscus:
+    repo: natydasilva/natydasilva
+
+execute:
+  freeze: true

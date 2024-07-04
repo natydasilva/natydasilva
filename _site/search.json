@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "natydasilva",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "English Español\n\n\n\nI’m an Assistant Professor in the Department of Statistics at the Universidad de la República in Montevideo (UDELAR-IESTA). I obtained my Ph.D. degree in Statistics at Iowa State University on July 2017 working with Di Cook and Heike Hofmann. My interest are: supervised learning methods, prediction, exploratory data analysis, statistical graphics, reproducible research and meta-analysis. I’m co-founder of R-Ladies-Ames and R-Ladies-Montevideo. I’m working in different initiatives to get a stronger and bigger R community in Latin America. If you want to know more about the R community across Latin America, check R Fordwards post."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "English Español\n\n\n\nI’m an Assistant Professor in the Department of Statistics at the Universidad de la República in Montevideo (UDELAR-IESTA). I obtained my Ph.D. degree in Statistics at Iowa State University on July 2017 working with Di Cook and Heike Hofmann. My interest are: supervised learning methods, prediction, exploratory data analysis, statistical graphics, reproducible research and meta-analysis. I’m co-founder of R-Ladies-Ames and R-Ladies-Montevideo. I’m working in different initiatives to get a stronger and bigger R community in Latin America. If you want to know more about the R community across Latin America, check [R Fordwards post] (http://forwards.github.io/blog/2018/02/05/r-in-latin-america/)."
+    "text": "English Español"
   },
   {
     "objectID": "taks/en/2024_user_educationalDCproy/index.html",
@@ -81,13 +81,13 @@
     "href": "index.html#presentationspresentaciones",
     "title": "Natalia da Silva",
     "section": "Presentations/Presentaciones",
-    "text": "Presentations/Presentaciones\nSee all talks here!/ Mira todas las charlas aquí!\n\n\n\n\n\n\n\n\nUntitled\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransforming Data IntoInformation: Overcoming Challenges in Educational Data Ana\n\n\nuseR 2024\n\n\n\nJul 2, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Presentations/Presentaciones\nSee all talks here!/ Mira todas las charlas aquí!"
   },
   {
     "objectID": "index.html#researchinvestigación",
     "href": "index.html#researchinvestigación",
     "title": "Natalia da Silva",
     "section": "Research/Investigación",
-    "text": "Research/Investigación\n\n\n\n\n\n\n\n\nUntitled\n\n\n\n\n\n\n\n\n\n\n\nUntitled\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Research/Investigación"
   }
 ]

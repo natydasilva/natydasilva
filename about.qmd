@@ -13,7 +13,7 @@ about:
       href: https://github.com/natydasilva
     - icon: linkedin
       text: LinkedIn
-      href: linkedin.com/in/natalia-da-silva-770700a1 
+      href: https://www.linkedin.com/in/natalia-da-silva-770700a1/
 ---
 
 <center>
@@ -25,8 +25,5 @@ about:
 </center>
 
 ::: {#hero-heading}
-I'm an Assistant Professor in the Department of Statistics at the Universidad de la República in Montevideo ([UDELAR-IESTA](http://www.iesta.edu.uy)).
-I obtained my Ph.D. degree in Statistics at [Iowa State University](https://www.iastate.edu) on July 2017 working with [Di Cook](http://www.dicook.org) and [Heike Hofmann](http://hofmann.public.iastate.edu/index.html).
-My interest are: supervised learning methods, prediction, exploratory data analysis, statistical graphics, reproducible research and meta-analysis. 
-I'm co-founder of [R-Ladies-Ames](https://www.meetup.com/R-Ladies-Ames/) and [R-Ladies-Montevideo](https://www.meetup.com/rladies-montevideo/). I'm working in different initiatives to get a stronger and bigger R community in Latin America. If you want to know more about the R community across Latin America, check [R Fordwards post] (http://forwards.github.io/blog/2018/02/05/r-in-latin-america/).
+
 :::
