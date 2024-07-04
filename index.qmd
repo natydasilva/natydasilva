@@ -1,0 +1,68 @@
+---
+title: "Natalia da Silva"
+listing:
+  - id: talks
+    contents: "{talks}/{es,en}/*/index.qmd"
+    type: grid
+    fields: [image, date, title, subtitle]
+    sort: "date desc"
+    #categories: cloud
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+  # - id: posts
+  #   contents: posts/**/*/index.qmd
+  #   type: grid
+  #   fields: [image, date, title, subtitle, categories, author, reading-time]  
+  #   sort: "date desc"
+  #   #categories: cloud
+  #   sort-ui: false
+  #   filter-ui: false
+  #   page-size: 3
+  - id: research
+    contents: "{research}/{es,en}/*/index.qmd"
+    type: grid
+    fields: [image, date, title, subtitle]
+    sort: "date desc"
+    #categories: cloud
+    sort-ui: false
+    filter-ui: false
+    page-size: 3    
+page-layout: full
+title-block-banner: false
+comments: false
+toc: false
+about:
+  template: marquee
+#  image: naty.png
+  links:
+    - icon: envelope
+      text: Email
+      href: natalia.dasilva@fcea.edu
+    # - icon: file-pdf
+    #   text: Resume
+    #   href: https://beatrizmilz.github.io/resume/index.pdf  
+    - icon: github
+      text: GitHub
+      href: https://github.com/natydasilva
+    - icon: linkedin
+      text: LinkedIn
+      href: linkedin.com/in/natalia-da-silva-770700a1   
+---
+
+## Textos/Posts
+
+::: {#posts}
+:::
+
+## Presentations/Presentaciones
+
+[ See all talks here!/ Mira todas las charlas aquí!](/talks/index.html)
+
+::: {#talks}
+:::
+
+## Research/Investigación
+
+::: {#research}
+:::

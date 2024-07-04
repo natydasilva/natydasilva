@@ -1,0 +1,26 @@
+---
+title: "Palestras/talks"
+listing:
+  - id: talks
+    contents: "{en}/*/index.qmd"
+    type: grid
+    fields: [image, date, title, subtitle]
+    sort: "date desc"
+    categories: cloud
+    sort-ui: true
+    filter-ui: true
+    page-size: 36     
+page-layout: full
+title-block-banner: false
+comments: false
+toc: true
+---
+
+## Convites/Invitations
+
+Please email me at: [natalia.dasilva\@fcea.edu.uy](natalia.dasilva@fcea.edu.uy)
+
+## Slides
+
+::: {#talks}
+:::
