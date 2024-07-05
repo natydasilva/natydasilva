@@ -1,13 +1,13 @@
 ---
-title: "Talks"
-comments: false
+title: "Posts"
+margin-header: subscribe.html
+editor: visual
 listing:
-  contents: "*/*.qmd"
+  contents: posts
   sort: "date desc"
   type: default
-  fields: [image, date, title, subtitle]  
   categories: true
-  sort-ui: true
+  sort-ui: false
   filter-ui: true
 page-layout: full
 title-block-banner: true

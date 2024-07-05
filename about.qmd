@@ -16,14 +16,14 @@ about:
       href: https://www.linkedin.com/in/natalia-da-silva-770700a1/
 ---
 
-<center>
+<!-- <center> -->
 
-::: {.btn-group role="group" aria-label="About"}
-<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
-:::
+<!-- ::: {.btn-group role="group" aria-label="About"} -->
+<!-- <a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a> -->
+<!-- ::: -->
 
-</center>
+<!-- </center> -->
 
-::: {#hero-heading}
+<!-- ::: {#hero-heading} -->
 
-:::
+<!-- ::: -->

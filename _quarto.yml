@@ -2,8 +2,6 @@ project:
   type: website
   output-dir: docs
 
-    
-
 website:
   page-navigation: true
   title: "Natalia da silva"
@@ -22,29 +20,16 @@ website:
   navbar:
     right:
       - text: About
-        menu:
-          - text: English
-            href: about.qmd
-          - text: Español
-            href: about-es.qmd
-      # - text: Posts
-      #   menu:
-      #     - text: All posts
-      #       href: posts/index.qmd
-      #     - text: English
-      #       href: posts/en.qmd
-      #     - text: Español
-      #       href: posts/es.qmd
+        href: about.qmd
       - text: Teaching
-        href: teaching/index.qmd
       - text: Talks
-        href: talks/index.qmd
+      - href: Blogs.qmd
+      - text: Blog
       - text: Research
-        href: research/index.qmd
       - icon: github
         href: https://github.com/natydasilva
       - icon: linkedin
-        href: https://www.linkedin.com/in/natalia-da-silva-770700a1/
+        href: www.linkedin.com/in/natalia-da-silva-770700a1/
 
 lang: pt
 
