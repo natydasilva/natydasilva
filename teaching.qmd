@@ -1,0 +1,42 @@
+---
+title: "Teaching"
+editor: visual
+page-layout: full
+title-block-banner: true
+---
+
+::: {#hero-heading}
+
+## Teaching as Assistant Professor (2017-Now)
+
+**Universidad de la República (Uruguay)**
+
+- Statistical learning (2022, 2024), Masters level in Economics
+- Statistical inference (2024), Masters level in Economics
+- Supervised statistical learning (2022, 2024), Undergrad level in Statistics
+- Data science for bussiness (2022,Now), Masters level in Finances
+- Data science with R (2023-Now), Undergrad level in Statistics
+- New tecnologies for the statistical data análysis with R (2018-2022) Undergrad level in Statistics
+
+## Previous teaching experience as TA/Instructor (2005-2017):
+
+**Iowa State University (USA):**
+
+- STAT 528: Visual Business Analytics (TA, Fall 2016)
+- STAT 104: Introduction to Statistics (Instructor, Summer 2016, Spring 2015, Fall 2015)
+- STAT 503: Exploratory Methods and Data Mining (TA, Spring 2015)
+- VDPAM 522: Principles of Epidemiology and Population Health (TA, Summer 2013, Spring 2013)
+- VDPAM 529: Epidemiological Methods in Population Research (TA, Fall 2012)
+- STAT 226: Introduction to Business Statistics I (TA Fall 2011)
+
+**Universidad de la República (Uruguay)**
+
+- Statistic I (TA, Spring 2011)
+- Introduction to Statistics (Instructor, Fall 2010)
+- Time Series (TA, Fall 2009, Fall 2010)
+- Math I (Instructor, 2006-2009)
+- Quantitative Methods I ( Instructor, Fall 2006)
+- Quantitative Methods II, (TA, Spring 2006)
+- Quantitative Methods III, (TA, Spring 2006)
+- Computing, ( Instructor, Spring 2005)
+:::

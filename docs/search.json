@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "–&gt;  –&gt;  –&gt;"
+    "text": "I’m an Assistant Professor in the Department of Statistics at the Universidad de la República in Montevideo (UDELAR-IESTA). I obtained my Ph.D. degree in Statistics at Iowa State University on July 2017 working with Di Cook and Heike Hofmann. My interest are: supervised learning methods, prediction, exploratory data analysis, statistical graphics, reproducible research and meta-analysis. I’m co-founder of R-Ladies-Ames and R-Ladies-Montevideo. I’m working in different initiatives to get a stronger and bigger R community in Latin America. If you want to know more about the R community across Latin America, check R Fordwards post."
   },
   {
     "objectID": "Blogs.html",
@@ -19,5 +19,40 @@
     "title": "Posts",
     "section": "",
     "text": "Blog 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "hola\nhola\nchau"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Universidad de la República (Uruguay)\n\nStatistical learning (2022, 2024), Masters level in Economics\nStatistical inference (2024), Masters level in Economics\nSupervised statistical learning (2022, 2024), Undergrad level in Statistics\nData science for bussiness (2022,Now), Masters level in Finances\nData science with R (2023-Now), Undergrad level in Statistics\nNew tecnologies for the statistical data análysis with R (2018-2022) Undergrad level in Statistics\n\n\n\n\nIowa State University (USA):\n\nSTAT 528: Visual Business Analytics (TA, Fall 2016)\nSTAT 104: Introduction to Statistics (Instructor, Summer 2016, Spring 2015, Fall 2015)\nSTAT 503: Exploratory Methods and Data Mining (TA, Spring 2015)\nVDPAM 522: Principles of Epidemiology and Population Health (TA, Summer 2013, Spring 2013)\nVDPAM 529: Epidemiological Methods in Population Research (TA, Fall 2012)\nSTAT 226: Introduction to Business Statistics I (TA Fall 2011)\n\nUniversidad de la República (Uruguay)\n\nStatistic I (TA, Spring 2011)\nIntroduction to Statistics (Instructor, Fall 2010)\nTime Series (TA, Fall 2009, Fall 2010)\nMath I (Instructor, 2006-2009)\nQuantitative Methods I ( Instructor, Fall 2006)\nQuantitative Methods II, (TA, Spring 2006)\nQuantitative Methods III, (TA, Spring 2006)\nComputing, ( Instructor, Spring 2005)"
+  },
+  {
+    "objectID": "teaching.html#previous-teaching-experience-as-tainstructor-2005-2017",
+    "href": "teaching.html#previous-teaching-experience-as-tainstructor-2005-2017",
+    "title": "Teaching",
+    "section": "",
+    "text": "Iowa State University (USA):\n\nSTAT 528: Visual Business Analytics (TA, Fall 2016)\nSTAT 104: Introduction to Statistics (Instructor, Summer 2016, Spring 2015, Fall 2015)\nSTAT 503: Exploratory Methods and Data Mining (TA, Spring 2015)\nVDPAM 522: Principles of Epidemiology and Population Health (TA, Summer 2013, Spring 2013)\nVDPAM 529: Epidemiological Methods in Population Research (TA, Fall 2012)\nSTAT 226: Introduction to Business Statistics I (TA Fall 2011)\n\nUniversidad de la República (Uruguay)\n\nStatistic I (TA, Spring 2011)\nIntroduction to Statistics (Instructor, Fall 2010)\nTime Series (TA, Fall 2009, Fall 2010)\nMath I (Instructor, 2006-2009)\nQuantitative Methods I ( Instructor, Fall 2006)\nQuantitative Methods II, (TA, Spring 2006)\nQuantitative Methods III, (TA, Spring 2006)\nComputing, ( Instructor, Spring 2005)"
+  },
+  {
+    "objectID": "teaching.html#courses-2017-now",
+    "href": "teaching.html#courses-2017-now",
+    "title": "Teaching",
+    "section": "",
+    "text": "Universidad de la República (Uruguay)"
+  },
+  {
+    "objectID": "teaching.html#teaching-as-assistant-professor-2017-now",
+    "href": "teaching.html#teaching-as-assistant-professor-2017-now",
+    "title": "Teaching",
+    "section": "",
+    "text": "Universidad de la República (Uruguay)\n\nStatistical learning (2022, 2024), Masters level in Economics\nStatistical inference (2024), Masters level in Economics\nSupervised statistical learning (2022, 2024), Undergrad level in Statistics\nData science for bussiness (2022,Now), Masters level in Finances\nData science with R (2023-Now), Undergrad level in Statistics\nNew tecnologies for the statistical data análysis with R (2018-2022) Undergrad level in Statistics"
   }
 ]

@@ -85,7 +85,7 @@ about:
       href: https://github.com/natydasilva
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/natalia-da-silva-770700a1/ 
+      href: https://www.linkedin.com/in/natalia-da-silva-770700a1/
 ---
 
 <!-- <center> -->
