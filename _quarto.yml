@@ -24,33 +24,45 @@ website:
       - href: research.qmd
       - href: teaching.qmd
       - href: Blogs.qmd
-      
       - icon: github
         href: https://github.com/natydasilva
       - icon: linkedin
         href: https://www.linkedin.com/in/natalia-da-silva-770700a1/
 
 lang: pt
-
+# 
+# format:
+#   html:
+#     smooth-scroll: true
+#     theme:
+#       - pulse
+#       - custom.scss
+#       css: styles.css
+#     link-external-icon: false
+#     link-external-newwindow: true
+#     link-external-filter: '^(?:http:|https:)\/\/www\.beamilz\.com\/**'
+#     citations-hover: true
+#     footnotes-hover: true
+#     toc: true
+#     code-link: true
+# editor: visual
+    
+#   
 format:
   html:
-    smooth-scroll: true
     theme:
-      - pulse
-      - custom.scss
-    link-external-icon: false
-    link-external-newwindow: true
-    link-external-filter: '^(?:http:|https:)\/\/www\.beamilz\.com\/**'
-    citations-hover: true
-    footnotes-hover: true
+      light: pulse
+      dark: [pulse, theme-dark.scss]
+    css: styles.css
     toc: true
-    code-link: true
-
+    # backgroundcolor: "#deebf7"
 editor: visual
 
-comments:
-  giscus:
-    repo: natydasilva/natydasilva
+
+
+# comments:
+#   giscus:
+#     repo: natydasilva/natydasilva
 
 execute:
   freeze: true
