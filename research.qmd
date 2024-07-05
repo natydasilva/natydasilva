@@ -13,6 +13,41 @@ title-block-banner: true
 
 ::: {#hero-heading}
 - hola
-- hola
-- chau
+
+- (2024) Wrobel, J., Hector, E. C., Crawford, L., McGowan, L. D., da Silva, N., Goldsmith, J., … Wolfson, J. (2024). ``Partnering with Authors to Enhance Reproducibility at JASA''. *Journal of the American Statistical Association*, 1–6. https://doi.org/10.1080/01621459.2024.2340557
+
+- (2023) da Silva, N., Cook, D.,  Lee, E. K. ``Interactive graphics for visually diagnosing forest classifiers in R''. *Computational Statistics, 1-21.*
+
+<!-- - (2022)  da Silva, N.``Intersection between environmental data science and the R community in Latin America.''\textit{Environmetrics, e2731}. -->
+
+<!-- - (2021) Lee, S., Cook, D., da Silva, N., Laa, U., Spyrison, N., Wang, E.,  Zhang, H. S.``The state‐of‐the‐art on tours for dynamic visualization of high‐dimensional data.''.\textit{Wiley Interdisciplinary Reviews: Computational Statistics, 14(4), e1573.}.  -->
+
+<!-- - (2021) da Silva, N, Cook, D., Lee, E.K.``A Projection Pursuit Forest Algorithm for Supervised Classification.''\textit{Journal of Computational and Graphical Statistics, 30(4), 1168-1180}.  -->
+
+<!-- - (2019)  Alvarez, I., da Silva, N.``Clicks and Cliques. Exploring the Soul of the Community.''\textit{Computational Statistics}. -->
+
+<!-- - (2016) O'Connor, A.M., Yuan, C., Cullen, J.N., Coetzee, J.F., da Silva, N. Wang, C. ``A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory diseasease. An update.''\textit{ Preventive Veterinary Medicine}.  -->
+
+<!-- - (2016) Cullen, J. N., Yuan, C.,   Totton, S.,  Dzikamunhenga, R., Coetzee, J. F., da Silva, N., Wang, C., and  O'Connor, A. M.``A systematic review and meta-analysis of the antibiotic treatment for infectious bovine keratoconjunctivitis: an update.'' \textit{Animal Health Research Reviews} -->
+
+<!-- - (2015)``Pain and sickness behavior associated with corneal lesions in dairy calves''.\textit{Woods, B., Millman, S., da Silva,N., Dewell, R., Parsons, L., Wang, C.F1000Research, Open for Science}.  -->
+
+<!-- - (2014) da Silva, N., Carriquiry, A., O’Neillb, K., Opriessnig, T., O'Connor. A.``Mixed treatment comparison meta-analysis of porcine circovirus type 2 (PCV2) vaccines used in piglets.'' -->
+<!-- \textit{Preventive Veterinary Medicine, Volume 117, Issues 3–4, 1 December 2014, Pages 413-424}. -->
+
+<!-- - (2013)  O'Connor, A., Coetzee, J., da Silva, N., Wang, C.``A mixed treatment comparison meta-analysis of antibiotic treatments for bovine respiratory disease.'' -->
+<!-- \textit{Preventive Veterinary Medicine,Volume 110, Issue 2, 1 June 2013, Pages 77-87} -->
+
+<!-- - (2012) Forteza, A.,  Alvarez, I., da Silva, N.,  Rossi, I. ``Incentivos y patrones de retiro en Uruguay.'' -->
+<!-- \textit{Estudios Economicos 2012, 27 (2)} -->
+
+<!-- - (2010) Forteza, A.,  Alvarez, I., da Silva, N.,  Rossi, I ``Qué Incentivos al Retiro Genera la Seguridad Social? El Caso Uruguayo.'' \textit{Latin American Journal of Economics, Instituto de Econom\'ia. Pontificia Universidad Cat\'olica de Chile., vol. 47(136), pages 217-247}.  -->
+
+<!-- - (2009) Forteza, A.,  Alvarez, I., da Silva, N.,  Rossi, I.``El retiro de los trabajadores uruguayos y la seguridad social.'' -->
+<!-- \textit{Revista de Econom\'ia, Banco Central del Uruguay, Vol. 16, No. 2}.  -->
+
+<!-- \textbf{No arbitrado:}\\ -->
+
+<!-- \item[2009]  Rodriguez, S., Alvarez, I., da Silva, N. ``Producto potencial y Brecha de Producto en Uruguay.''\\ \textit{Quantum, ISSN: 07977859, p. 4 - 21}.  -->
+
 :::
