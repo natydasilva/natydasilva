@@ -1,93 +1,170 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "English Español\n\n\n\nI’m an Assistant Professor in the Department of Statistics at the Universidad de la República in Montevideo (UDELAR-IESTA). I obtained my Ph.D. degree in Statistics at Iowa State University on July 2017 working with Di Cook and Heike Hofmann. My interest are: supervised learning methods, prediction, exploratory data analysis, statistical graphics, reproducible research and meta-analysis. I’m co-founder of R-Ladies-Ames and R-Ladies-Montevideo. I’m working in different initiatives to get a stronger and bigger R community in Latin America. If you want to know more about the R community across Latin America, check R Fordwards post."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Jayani Lakshika",
     "section": "",
-    "text": "English Español"
+    "text": "BSc (Hons) Special Degree in Statistics, January 2017 - December 2020\nUniversity of Sri Jayewardenepura, Sri Lanka\n\n\n\n\n\nDiploma in Computer System Design (DCSD), March 2016 - March 2017\nNational Institute of Business Management (NIBM), Sri Lanka | Gold Medalist\n\n\n\n\n\nCertificate in Business Accounting, December 2015 - September 2016\nChartered Institute of Management Accountants (CIMA)"
   },
   {
-    "objectID": "taks/en/2024_user_educationalDCproy/index.html",
-    "href": "taks/en/2024_user_educationalDCproy/index.html",
-    "title": "Transforming Data IntoInformation: Overcoming Challenges in Educational Data Analysis",
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Jayani Lakshika",
+    "section": "Experience",
+    "text": "Experience\nDepartment of Statistics, USJ | Teaching Assistant (Temporary Instructor) | July 2021 - July 2022\nVizuaMatix | Associate Data Analyst | January 2020 - November 2021\nVizuaMatix | Trainee Data Analyst | July 2020 - December 2020\nVizuaMatix | Research Internship | January 2020 - June 2020"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Jayani Lakshika",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nData Visualization\nComputer Vision\nMachine Learning"
+  },
+  {
+    "objectID": "Blogs.html",
+    "href": "Blogs.html",
+    "title": "Posts",
     "section": "",
-    "text": "Event: useR! 2024\nTalk\nSlides:"
+    "text": "COMING SOON!\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBlog 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
-    "objectID": "index.html#apresentaçõespresentations",
-    "href": "index.html#apresentaçõespresentations",
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "natalia.dasilva@fcea.ed.uy"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Natalia da silva",
+    "section": "",
+    "text": "I’m an Assistant Professor in the Department of Statistics at the Universidad de la República in Montevideo (UDELAR-IESTA). I obtained my Ph.D. degree in Statistics at Iowa State University on July 2017 working with Di Cook and Heike Hofmann. My interest are: supervised learning methods, prediction, exploratory data analysis, statistical graphics, reproducible research and meta-analysis. I’m co-founder of R-Ladies-Ames and R-Ladies-Montevideo. I’m working in different initiatives to get a stronger and bigger R community in Latin America. If you want to know more about the R community across Latin America, check R Fordwards post."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Natalia da silva",
+    "section": "Interests",
+    "text": "Interests\n\nStatistical Learning\nStatistical graphics\nComputational Statistics\nExploratory data analysis\nReproducible research\nMeta-analysis"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Natalia da silva",
+    "section": "Education",
+    "text": "Education\n\n PhD in Statistics, 2017\n\nIowa State University, USA\n\n\n\n MS in Statistics, 2014\n\nIowa State University, USA\n\n\n\n BSc in Economics, 2008\n\nUniversidad de la República, Uruguay\n\n\n\n BSc in Statistics, 2007\n\nUniversidad de la República, Uruguay"
+  },
+  {
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "Packages",
+    "section": "",
+    "text": "The MedLEA package provides morphological and structural features of 471 medicinal plant leaves and 1099 leaf images of 31 species and 29-45 images per species.\n\n        \n        Github\n     \n        \n        Package\n    \nDSjobtracker\nR package containing information related to data science job advertisements. What skills and qualifications are required for data science related jobs?\n\n        \n        Github\n     \n        \n        Package"
+  },
+  {
+    "objectID": "posts/blog_1/index.html",
+    "href": "posts/blog_1/index.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "You can find my first project, which I have completed as a pert of the course STA 474 2.0 Statistical Consultancy, when I was doing my undergraduate degree. This was the first challenge that I have to face when I was in the second semester of my last year. I was never build a blog post by myself back then. This was a great experience for me. Finally, it’s in the Statistical Consultancy Website of University of Sri Jayewardenepura, Sri Lanka (SCS-USJ)."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Medicinal plants are usually identified by practitioners based on years of experience through sensory or olfactory senses. The other method of recognizing these plants involves laboratory-based testing, which requires trained skills, data interpretation which is costly and time-intensive. Automatic ways to identify medicinal plants are useful especially those that are lacking experience in herbal recognition. There is no standard mechanism in identification of medicinal plants. Therefore, we introduce an automatic approach based on statistical machine learning to identify medicinal plants. We refer to our medicinal plant classification algorithm as MEDIPI : MEDIicinal Plant Identitication. Our classification algorithm operates on the features extracted from the image leaves.\nwebsite"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
     "title": "Natalia da Silva",
-    "section": "Apresentações/Presentations",
-    "text": "Apresentações/Presentations\nVeja todas as apresentações aqui! / See all talks here!\n\n\n\n\n\n\n\n\nUntitled\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransforming Data IntoInformation: Overcoming Challenges in Educational Data Ana\n\n\nuseR 2024\n\n\n\nJul 2, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "",
+    "text": "Wrobel, J., Hector, E. C., Crawford, L., McGowan, L. D., da Silva, N., Goldsmith, J., … Wolfson, J. (2024). Partnering With Authors to Enhance Reproducibility at JASA. Journal of the American Statistical Association, 119(546), 795–797. https://doi.org/10.1080/01621459.2024.2340557\nda Silva, N., Cook, D. & Lee, EK. Interactive graphics for visually diagnosing forest classifiers in R. Comput Stat (2023). https://doi.org/10.1007/s00180-023-01323-x\nda Silva, N. (2023). Intersection between environmental data science and the R community in Latin America. Environmetrics, 34(2), e2731.https://doi.org/10.1002/env.2731\nLee, S., Cook, D., da Silva, N., Laa, U., Spyrison, N., Wang, E., & Zhang, H. S. (2022). The state‐of‐the‐art on tours for dynamic visualization of high‐dimensional data. Wiley Interdisciplinary Reviews: Computational Statistics, 14(4), e1573.https://doi.org/10.1002/wics.1573\nda Silva, N., Cook, D., & Lee, E. K. (2021). A Projection Pursuit Forest Algorithm for Supervised Classification. Journal of Computational and Graphical Statistics, 30(4), 1168–1180. https://doi.org/10.1080/10618600.2020.1870480\nda Silva, N., Alvarez-Castro, I. Clicks and cliques: exploring the soul of the community. Comput Stat 34, 1537–1563 (2019). https://doi.org/10.1007/s00180-019-00881-3\nO’Connor, A. M., Yuan, C., Cullen, J. N., Coetzee, J. F., Da Silva, N., & Wang, C. (2016). A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease–an update. Preventive veterinary medicine, 132, 130-139.https://doi.org/10.1016/j.prevetmed.2016.07.003\nO’Connor AM, Yuan C, Cullen JN, Coetzee JF, da Silva N, Wang C. A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease - An update. Prev Vet Med. 2016 Sep 15;132:130-139. doi: https://doi.org/10.1016/j.prevetmed.2016.07.003. Epub 2016 Aug 31. PMID: 27612392.\nCullen JN, Yuan C, Totton S, Dzikamunhenga R, Coetzee JF, da Silva N, Wang C, O’Connor AM. A systematic review and meta-analysis of the antibiotic treatment for infectious bovine keratoconjunctivitis: an update. Anim Health Res Rev. 2016 Jun;17(1):60-75. https://doi.org/10.1017/S1466252316000050. PMID: 27427193.\nWoods BJ, Millman ST, da Silva N, Dewell RD, Parsons RL, Wang C, O’Connor AM. Pain and sickness behavior associated with corneal lesions in dairy calves. F1000Res. 2015 Aug 11;4:546. https://doi.org/10.12688/f1000research.6649.1. PMID: 26949517; PMCID: PMC4758373.\nda Silva N, Carriquiry A, O’Neill K, Opriessnig T, O’Connor AM. Mixed treatment comparison meta-analysis of porcine circovirus type 2 (PCV2) vaccines used in piglets. Prev Vet Med. 2014 Dec 1;117(3-4):413-24. doi: https://doi.org/10.1016/j.prevetmed.2014.10.006. Epub 2014 Oct 31. PMID: 25457512.\nO’Connor AM, Coetzee JF, da Silva N, Wang C. A mixed treatment comparison meta-analysis of antibiotic treatments for bovine respiratory disease. Prev Vet Med. 2013 Jun 1;110(2):77-87. doi: https://doi.org/10.1016/j.prevetmed.2012.11.025. Epub 2012 Dec 28. PMID: 23276402."
   },
   {
-    "objectID": "index.html#pesquisaresearch",
-    "href": "index.html#pesquisaresearch",
-    "title": "Natalia da Silva",
-    "section": "Pesquisa/Research",
-    "text": "Pesquisa/Research\n\n\n\n\n\n\n\n\nUntitled\n\n\n\n\n\n\n\n\n\n\n\nUntitled\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "talks/en/index.html",
-    "href": "talks/en/index.html",
+    "objectID": "talks.html",
+    "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTransforming Data IntoInformation: Overcoming Challenges in Educational Data Ana\n\n\nuseR 2024\n\n\n\n\n\nJul 2, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "2023 Presentación resultados Proyecto: Monitor y evaluación de uso de las plataformas educativas. Lanzamiento global del Informe GEM 2023 sobre la tecnología en la educación. Montevideo, Uruguay.\n2023: Curso de Visualización de datos con R. Escuela Internacional de Ciencias Sociales Computacionales, FCS. Montevideo, Uruguay.\n2023: Importancia de la Visualización y desafíos. Charla apertura para presentación del Diploma en Visualización de datos. Escuela de Estadística, Universidad Nacional de Rosario. Rosario, Argentina.\n2023 SpICE: Interpretable method for spatial data. Seminario en el Departamento de Estadística de Dalhousie University, Virtual. Nueva Escocia, Canadá"
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Palestras/talks",
+    "objectID": "talks.html#vx-tech-talk-2021",
+    "href": "talks.html#vx-tech-talk-2021",
+    "title": "Talks",
+    "section": "Vx Tech Talk 2021",
+    "text": "Vx Tech Talk 2021\nVizuamatix (Pvt) Ltd. is a software development company where I completed my research internship. I was able to share my experiences of undergraduate research with Vx team.\nGitHub"
+  },
+  {
+    "objectID": "talks.html#conference-proceedings-2021",
+    "href": "talks.html#conference-proceedings-2021",
+    "title": "Talks",
+    "section": "Conference Proceedings 2021",
+    "text": "Conference Proceedings 2021\n\n17th Applied Statistics Conference, Solvenia September 2021\n\nResearch poster and abstract publication, presentation with named Statistical machine learning for medicinal plant leaves classification.\n\n\n\n\nYoung Scientists’ Conference on Multidisciplinary Research (YSCMR), 2021\n\nThis is organised by the Young Scientists’ Association of the National Institute of Fundamental Studies, Sri Lanka (NIFS-YSA) October 2021.\nSpeed-talk presentation on Statistical machine learning for medicinal plant leaves classification."
+  },
+  {
+    "objectID": "projects.html#section",
+    "href": "projects.html#section",
+    "title": "Projects",
     "section": "",
-    "text": "Please email me at: natalia.dasilva@fcea.edu.uy"
+    "text": "Medicinal plants are usually identified by practitioners based on years of experience through sensory or olfactory senses. The other method of recognizing these plants involves laboratory-based testing, which requires trained skills, data interpretation which is costly and time-intensive. Automatic ways to identify medicinal plants are useful especially those that are lacking experience in herbal recognition. There is no standard mechanism in identification of medicinal plants. Therefore, we introduce an automatic approach based on statistical machine learning to identify medicinal plants. We refer to our medicinal plant classification algorithm as MEDIPI : MEDIicinal Plant Identitication. Our classification algorithm operates on the features extracted from the image leaves.\nwebsite"
   },
   {
-    "objectID": "talks/index.html#convitesinvitations",
-    "href": "talks/index.html#convitesinvitations",
-    "title": "Palestras/talks",
+    "objectID": "talks.html#estadistica-2021",
+    "href": "talks.html#estadistica-2021",
+    "title": "Talks",
     "section": "",
-    "text": "Please email me at: natalia.dasilva@fcea.edu.uy"
+    "text": "Estadistica is the annual Statistics Day organized by the Statistics Society of University of Sri Jayewardenepura, Sri Lanka. As an undergraduate researcher, I got an opportunity to open up my research work and experience with the community.\nGitHub"
   },
   {
-    "objectID": "talks/index.html#slides",
-    "href": "talks/index.html#slides",
-    "title": "Palestras/talks",
-    "section": "Slides",
-    "text": "Slides\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTransforming Data IntoInformation: Overcoming Challenges in Educational Data Ana\n\n\nuseR 2024\n\n\n\nJul 2, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "talks/es/index.html",
-    "href": "talks/es/index.html",
-    "title": "Presentaciones en español",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUntitled\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "talks/en/2024_user_educationalDCproy/index.html",
-    "href": "talks/en/2024_user_educationalDCproy/index.html",
-    "title": "Transforming Data IntoInformation: Overcoming Challenges in Educational Data Ana",
-    "section": "",
-    "text": "Event: useR! 2024\nTalk\nSlides:"
-  },
-  {
-    "objectID": "index.html#presentationspresentaciones",
-    "href": "index.html#presentationspresentaciones",
+    "objectID": "publications.html#papers",
+    "href": "publications.html#papers",
     "title": "Natalia da Silva",
-    "section": "Presentations/Presentaciones",
-    "text": "Presentations/Presentaciones\nSee all talks here!/ Mira todas las charlas aquí!"
+    "section": "",
+    "text": "Wrobel, J., Hector, E. C., Crawford, L., McGowan, L. D., da Silva, N., Goldsmith, J., … Wolfson, J. (2024). Partnering With Authors to Enhance Reproducibility at JASA. Journal of the American Statistical Association, 119(546), 795–797. https://doi.org/10.1080/01621459.2024.2340557\nda Silva, N., Cook, D. & Lee, EK. Interactive graphics for visually diagnosing forest classifiers in R. Comput Stat (2023). https://doi.org/10.1007/s00180-023-01323-x\nda Silva, N. (2023). Intersection between environmental data science and the R community in Latin America. Environmetrics, 34(2), e2731.https://doi.org/10.1002/env.2731\nLee, S., Cook, D., da Silva, N., Laa, U., Spyrison, N., Wang, E., & Zhang, H. S. (2022). The state‐of‐the‐art on tours for dynamic visualization of high‐dimensional data. Wiley Interdisciplinary Reviews: Computational Statistics, 14(4), e1573.https://doi.org/10.1002/wics.1573\nda Silva, N., Cook, D., & Lee, E. K. (2021). A Projection Pursuit Forest Algorithm for Supervised Classification. Journal of Computational and Graphical Statistics, 30(4), 1168–1180. https://doi.org/10.1080/10618600.2020.1870480\nda Silva, N., Alvarez-Castro, I. Clicks and cliques: exploring the soul of the community. Comput Stat 34, 1537–1563 (2019). https://doi.org/10.1007/s00180-019-00881-3\nO’Connor, A. M., Yuan, C., Cullen, J. N., Coetzee, J. F., Da Silva, N., & Wang, C. (2016). A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease–an update. Preventive veterinary medicine, 132, 130-139.https://doi.org/10.1016/j.prevetmed.2016.07.003\nO’Connor AM, Yuan C, Cullen JN, Coetzee JF, da Silva N, Wang C. A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease - An update. Prev Vet Med. 2016 Sep 15;132:130-139. doi: https://doi.org/10.1016/j.prevetmed.2016.07.003. Epub 2016 Aug 31. PMID: 27612392.\nCullen JN, Yuan C, Totton S, Dzikamunhenga R, Coetzee JF, da Silva N, Wang C, O’Connor AM. A systematic review and meta-analysis of the antibiotic treatment for infectious bovine keratoconjunctivitis: an update. Anim Health Res Rev. 2016 Jun;17(1):60-75. https://doi.org/10.1017/S1466252316000050. PMID: 27427193.\nWoods BJ, Millman ST, da Silva N, Dewell RD, Parsons RL, Wang C, O’Connor AM. Pain and sickness behavior associated with corneal lesions in dairy calves. F1000Res. 2015 Aug 11;4:546. https://doi.org/10.12688/f1000research.6649.1. PMID: 26949517; PMCID: PMC4758373.\nda Silva N, Carriquiry A, O’Neill K, Opriessnig T, O’Connor AM. Mixed treatment comparison meta-analysis of porcine circovirus type 2 (PCV2) vaccines used in piglets. Prev Vet Med. 2014 Dec 1;117(3-4):413-24. doi: https://doi.org/10.1016/j.prevetmed.2014.10.006. Epub 2014 Oct 31. PMID: 25457512.\nO’Connor AM, Coetzee JF, da Silva N, Wang C. A mixed treatment comparison meta-analysis of antibiotic treatments for bovine respiratory disease. Prev Vet Med. 2013 Jun 1;110(2):77-87. doi: https://doi.org/10.1016/j.prevetmed.2012.11.025. Epub 2012 Dec 28. PMID: 23276402."
   },
   {
-    "objectID": "index.html#researchinvestigación",
-    "href": "index.html#researchinvestigación",
-    "title": "Natalia da Silva",
-    "section": "Research/Investigación",
-    "text": "Research/Investigación"
+    "objectID": "talks.html#invited-talks",
+    "href": "talks.html#invited-talks",
+    "title": "Talks",
+    "section": "",
+    "text": "2023 Presentación resultados Proyecto: Monitor y evaluación de uso de las plataformas educativas. Lanzamiento global del Informe GEM 2023 sobre la tecnología en la educación. Montevideo, Uruguay.\n2023: Curso de Visualización de datos con R. Escuela Internacional de Ciencias Sociales Computacionales, FCS. Montevideo, Uruguay.\n2023: Importancia de la Visualización y desafíos. Charla apertura para presentación del Diploma en Visualización de datos. Escuela de Estadística, Universidad Nacional de Rosario. Rosario, Argentina.\n2023 SpICE: Interpretable method for spatial data. Seminario en el Departamento de Estadística de Dalhousie University, Virtual. Nueva Escocia, Canadá"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Wrobel, J., Hector, E. C., Crawford, L., McGowan, L. D., da Silva, N., Goldsmith, J., … Wolfson, J. (2024). Partnering With Authors to Enhance Reproducibility at JASA. Journal of the American Statistical Association, 119(546), 795–797. https://doi.org/10.1080/01621459.2024.2340557\nda Silva, N., Cook, D. & Lee, EK. Interactive graphics for visually diagnosing forest classifiers in R. Comput Stat (2023). https://doi.org/10.1007/s00180-023-01323-x\nda Silva, N. (2023). Intersection between environmental data science and the R community in Latin America. Environmetrics, 34(2), e2731.https://doi.org/10.1002/env.2731\nLee, S., Cook, D., da Silva, N., Laa, U., Spyrison, N., Wang, E., & Zhang, H. S. (2022). The state‐of‐the‐art on tours for dynamic visualization of high‐dimensional data. Wiley Interdisciplinary Reviews: Computational Statistics, 14(4), e1573.https://doi.org/10.1002/wics.1573\nda Silva, N., Cook, D., & Lee, E. K. (2021). A Projection Pursuit Forest Algorithm for Supervised Classification. Journal of Computational and Graphical Statistics, 30(4), 1168–1180. https://doi.org/10.1080/10618600.2020.1870480\nda Silva, N., Alvarez-Castro, I. Clicks and cliques: exploring the soul of the community. Comput Stat 34, 1537–1563 (2019). https://doi.org/10.1007/s00180-019-00881-3\nO’Connor, A. M., Yuan, C., Cullen, J. N., Coetzee, J. F., Da Silva, N., & Wang, C. (2016). A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease–an update. Preventive veterinary medicine, 132, 130-139.https://doi.org/10.1016/j.prevetmed.2016.07.003\nO’Connor AM, Yuan C, Cullen JN, Coetzee JF, da Silva N, Wang C. A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease - An update. Prev Vet Med. 2016 Sep 15;132:130-139. doi: https://doi.org/10.1016/j.prevetmed.2016.07.003. Epub 2016 Aug 31. PMID: 27612392.\nCullen JN, Yuan C, Totton S, Dzikamunhenga R, Coetzee JF, da Silva N, Wang C, O’Connor AM. A systematic review and meta-analysis of the antibiotic treatment for infectious bovine keratoconjunctivitis: an update. Anim Health Res Rev. 2016 Jun;17(1):60-75. https://doi.org/10.1017/S1466252316000050. PMID: 27427193.\nWoods BJ, Millman ST, da Silva N, Dewell RD, Parsons RL, Wang C, O’Connor AM. Pain and sickness behavior associated with corneal lesions in dairy calves. F1000Res. 2015 Aug 11;4:546. https://doi.org/10.12688/f1000research.6649.1. PMID: 26949517; PMCID: PMC4758373.\nda Silva N, Carriquiry A, O’Neill K, Opriessnig T, O’Connor AM. Mixed treatment comparison meta-analysis of porcine circovirus type 2 (PCV2) vaccines used in piglets. Prev Vet Med. 2014 Dec 1;117(3-4):413-24. doi: https://doi.org/10.1016/j.prevetmed.2014.10.006. Epub 2014 Oct 31. PMID: 25457512.\nO’Connor AM, Coetzee JF, da Silva N, Wang C. A mixed treatment comparison meta-analysis of antibiotic treatments for bovine respiratory disease. Prev Vet Med. 2013 Jun 1;110(2):77-87. doi: https://doi.org/10.1016/j.prevetmed.2012.11.025. Epub 2012 Dec 28. PMID: 23276402."
+  },
+  {
+    "objectID": "research.html#papers",
+    "href": "research.html#papers",
+    "title": "Research",
+    "section": "",
+    "text": "Wrobel, J., Hector, E. C., Crawford, L., McGowan, L. D., da Silva, N., Goldsmith, J., … Wolfson, J. (2024). Partnering With Authors to Enhance Reproducibility at JASA. Journal of the American Statistical Association, 119(546), 795–797. https://doi.org/10.1080/01621459.2024.2340557\nda Silva, N., Cook, D. & Lee, EK. Interactive graphics for visually diagnosing forest classifiers in R. Comput Stat (2023). https://doi.org/10.1007/s00180-023-01323-x\nda Silva, N. (2023). Intersection between environmental data science and the R community in Latin America. Environmetrics, 34(2), e2731.https://doi.org/10.1002/env.2731\nLee, S., Cook, D., da Silva, N., Laa, U., Spyrison, N., Wang, E., & Zhang, H. S. (2022). The state‐of‐the‐art on tours for dynamic visualization of high‐dimensional data. Wiley Interdisciplinary Reviews: Computational Statistics, 14(4), e1573.https://doi.org/10.1002/wics.1573\nda Silva, N., Cook, D., & Lee, E. K. (2021). A Projection Pursuit Forest Algorithm for Supervised Classification. Journal of Computational and Graphical Statistics, 30(4), 1168–1180. https://doi.org/10.1080/10618600.2020.1870480\nda Silva, N., Alvarez-Castro, I. Clicks and cliques: exploring the soul of the community. Comput Stat 34, 1537–1563 (2019). https://doi.org/10.1007/s00180-019-00881-3\nO’Connor, A. M., Yuan, C., Cullen, J. N., Coetzee, J. F., Da Silva, N., & Wang, C. (2016). A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease–an update. Preventive veterinary medicine, 132, 130-139.https://doi.org/10.1016/j.prevetmed.2016.07.003\nO’Connor AM, Yuan C, Cullen JN, Coetzee JF, da Silva N, Wang C. A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease - An update. Prev Vet Med. 2016 Sep 15;132:130-139. doi: https://doi.org/10.1016/j.prevetmed.2016.07.003. Epub 2016 Aug 31. PMID: 27612392.\nCullen JN, Yuan C, Totton S, Dzikamunhenga R, Coetzee JF, da Silva N, Wang C, O’Connor AM. A systematic review and meta-analysis of the antibiotic treatment for infectious bovine keratoconjunctivitis: an update. Anim Health Res Rev. 2016 Jun;17(1):60-75. https://doi.org/10.1017/S1466252316000050. PMID: 27427193.\nWoods BJ, Millman ST, da Silva N, Dewell RD, Parsons RL, Wang C, O’Connor AM. Pain and sickness behavior associated with corneal lesions in dairy calves. F1000Res. 2015 Aug 11;4:546. https://doi.org/10.12688/f1000research.6649.1. PMID: 26949517; PMCID: PMC4758373.\nda Silva N, Carriquiry A, O’Neill K, Opriessnig T, O’Connor AM. Mixed treatment comparison meta-analysis of porcine circovirus type 2 (PCV2) vaccines used in piglets. Prev Vet Med. 2014 Dec 1;117(3-4):413-24. doi: https://doi.org/10.1016/j.prevetmed.2014.10.006. Epub 2014 Oct 31. PMID: 25457512.\nO’Connor AM, Coetzee JF, da Silva N, Wang C. A mixed treatment comparison meta-analysis of antibiotic treatments for bovine respiratory disease. Prev Vet Med. 2013 Jun 1;110(2):77-87. doi: https://doi.org/10.1016/j.prevetmed.2012.11.025. Epub 2012 Dec 28. PMID: 23276402."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Universidad de la República (Uruguay)\n\nStatistical learning (2022, 2024), Masters level in Economics\nStatistical inference (2024), Masters level in Economics\nSupervised statistical learning (2022, 2024), Undergrad level in Statistics\nData science for bussiness (2022,Now), Masters level in Finances\nData science with R (2023-Now), Undergrad level in Statistics\nNew tecnologies for the statistical data análysis with R (2018-2022) Undergrad level in Statistics\n\n\n\n\nIowa State University (USA):\n\nSTAT 528: Visual Business Analytics (TA, Fall 2016)\nSTAT 104: Introduction to Statistics (Instructor, Summer 2016, Spring 2015, Fall 2015)\nSTAT 503: Exploratory Methods and Data Mining (TA, Spring 2015)\nVDPAM 522: Principles of Epidemiology and Population Health (TA, Summer 2013, Spring 2013)\nVDPAM 529: Epidemiological Methods in Population Research (TA, Fall 2012)\nSTAT 226: Introduction to Business Statistics I (TA Fall 2011)\n\nUniversidad de la República (Uruguay)\n\nStatistic I (TA, Spring 2011)\nIntroduction to Statistics (Instructor, Fall 2010)\nTime Series (TA, Fall 2009, Fall 2010)\nMath I (Instructor, 2006-2009)\nQuantitative Methods I ( Instructor, Fall 2006)\nQuantitative Methods II, (TA, Spring 2006)\nQuantitative Methods III, (TA, Spring 2006)\nComputing, ( Instructor, Spring 2005)"
+  },
+  {
+    "objectID": "teaching.html#teaching-as-assistant-professor-2017-now",
+    "href": "teaching.html#teaching-as-assistant-professor-2017-now",
+    "title": "Teaching",
+    "section": "",
+    "text": "Universidad de la República (Uruguay)\n\nStatistical learning (2022, 2024), Masters level in Economics\nStatistical inference (2024), Masters level in Economics\nSupervised statistical learning (2022, 2024), Undergrad level in Statistics\nData science for bussiness (2022,Now), Masters level in Finances\nData science with R (2023-Now), Undergrad level in Statistics\nNew tecnologies for the statistical data análysis with R (2018-2022) Undergrad level in Statistics"
+  },
+  {
+    "objectID": "teaching.html#previous-teaching-experience-as-tainstructor-2005-2017",
+    "href": "teaching.html#previous-teaching-experience-as-tainstructor-2005-2017",
+    "title": "Teaching",
+    "section": "",
+    "text": "Iowa State University (USA):\n\nSTAT 528: Visual Business Analytics (TA, Fall 2016)\nSTAT 104: Introduction to Statistics (Instructor, Summer 2016, Spring 2015, Fall 2015)\nSTAT 503: Exploratory Methods and Data Mining (TA, Spring 2015)\nVDPAM 522: Principles of Epidemiology and Population Health (TA, Summer 2013, Spring 2013)\nVDPAM 529: Epidemiological Methods in Population Research (TA, Fall 2012)\nSTAT 226: Introduction to Business Statistics I (TA Fall 2011)\n\nUniversidad de la República (Uruguay)\n\nStatistic I (TA, Spring 2011)\nIntroduction to Statistics (Instructor, Fall 2010)\nTime Series (TA, Fall 2009, Fall 2010)\nMath I (Instructor, 2006-2009)\nQuantitative Methods I ( Instructor, Fall 2006)\nQuantitative Methods II, (TA, Spring 2006)\nQuantitative Methods III, (TA, Spring 2006)\nComputing, ( Instructor, Spring 2005)"
   }
 ]

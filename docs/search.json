@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About",
+    "title": "Natalia da silva",
     "section": "",
     "text": "I’m an Assistant Professor in the Department of Statistics at the Universidad de la República in Montevideo (UDELAR-IESTA). I obtained my Ph.D. degree in Statistics at Iowa State University on July 2017 working with Di Cook and Heike Hofmann. My interest are: supervised learning methods, prediction, exploratory data analysis, statistical graphics, reproducible research and meta-analysis. I’m co-founder of R-Ladies-Ames and R-Ladies-Montevideo. I’m working in different initiatives to get a stronger and bigger R community in Latin America. If you want to know more about the R community across Latin America, check R Fordwards post."
   },
@@ -68,5 +68,19 @@
     "title": "Research",
     "section": "",
     "text": "Wrobel, J., Hector, E. C., Crawford, L., McGowan, L. D., da Silva, N., Goldsmith, J., … Wolfson, J. (2024). Partnering With Authors to Enhance Reproducibility at JASA. Journal of the American Statistical Association, 119(546), 795–797. https://doi.org/10.1080/01621459.2024.2340557\nda Silva, N., Cook, D. & Lee, EK. Interactive graphics for visually diagnosing forest classifiers in R. Comput Stat (2023). https://doi.org/10.1007/s00180-023-01323-x\nda Silva, N. (2023). Intersection between environmental data science and the R community in Latin America. Environmetrics, 34(2), e2731.https://doi.org/10.1002/env.2731\nLee, S., Cook, D., da Silva, N., Laa, U., Spyrison, N., Wang, E., & Zhang, H. S. (2022). The state‐of‐the‐art on tours for dynamic visualization of high‐dimensional data. Wiley Interdisciplinary Reviews: Computational Statistics, 14(4), e1573.https://doi.org/10.1002/wics.1573\nda Silva, N., Cook, D., & Lee, E. K. (2021). A Projection Pursuit Forest Algorithm for Supervised Classification. Journal of Computational and Graphical Statistics, 30(4), 1168–1180. https://doi.org/10.1080/10618600.2020.1870480\nda Silva, N., Alvarez-Castro, I. Clicks and cliques: exploring the soul of the community. Comput Stat 34, 1537–1563 (2019). https://doi.org/10.1007/s00180-019-00881-3\nO’Connor, A. M., Yuan, C., Cullen, J. N., Coetzee, J. F., Da Silva, N., & Wang, C. (2016). A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease–an update. Preventive veterinary medicine, 132, 130-139.https://doi.org/10.1016/j.prevetmed.2016.07.003\nO’Connor AM, Yuan C, Cullen JN, Coetzee JF, da Silva N, Wang C. A mixed treatment meta-analysis of antibiotic treatment options for bovine respiratory disease - An update. Prev Vet Med. 2016 Sep 15;132:130-139. doi: https://doi.org/10.1016/j.prevetmed.2016.07.003. Epub 2016 Aug 31. PMID: 27612392.\nCullen JN, Yuan C, Totton S, Dzikamunhenga R, Coetzee JF, da Silva N, Wang C, O’Connor AM. A systematic review and meta-analysis of the antibiotic treatment for infectious bovine keratoconjunctivitis: an update. Anim Health Res Rev. 2016 Jun;17(1):60-75. https://doi.org/10.1017/S1466252316000050. PMID: 27427193.\nWoods BJ, Millman ST, da Silva N, Dewell RD, Parsons RL, Wang C, O’Connor AM. Pain and sickness behavior associated with corneal lesions in dairy calves. F1000Res. 2015 Aug 11;4:546. https://doi.org/10.12688/f1000research.6649.1. PMID: 26949517; PMCID: PMC4758373.\nda Silva N, Carriquiry A, O’Neill K, Opriessnig T, O’Connor AM. Mixed treatment comparison meta-analysis of porcine circovirus type 2 (PCV2) vaccines used in piglets. Prev Vet Med. 2014 Dec 1;117(3-4):413-24. doi: https://doi.org/10.1016/j.prevetmed.2014.10.006. Epub 2014 Oct 31. PMID: 25457512.\nO’Connor AM, Coetzee JF, da Silva N, Wang C. A mixed treatment comparison meta-analysis of antibiotic treatments for bovine respiratory disease. Prev Vet Med. 2013 Jun 1;110(2):77-87. doi: https://doi.org/10.1016/j.prevetmed.2012.11.025. Epub 2012 Dec 28. PMID: 23276402."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Natalia da silva",
+    "section": "Interests",
+    "text": "Interests\n\nStatistical Learning\nStatistical graphics\nComputational Statistics\nExploratory data analysis\nReproducible research\nMeta-analysis"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Natalia da silva",
+    "section": "Education",
+    "text": "Education\n[[education.courses]] course = “BSc in Statistics” institution = “Universidad de la República” year = “2007”\n\n{{&lt; fa graduation-cap &gt;}} PhD in Statistics, 2017\n\nIowa State University, USA\n\n\n\n{{&lt; fa graduation-cap &gt;}} MS in Statistics, 2014\n\nIowa State University, USA\n\n\n\n{{&lt; fa graduation-cap &gt;}} BSc in Economics, 2008\n\nUniversidad de la República, Uruguay\n\n\n\nUniversidad de la República, Uruguay"
   }
 ]

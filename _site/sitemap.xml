@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://beamilz.com/index.html</loc>
-    <lastmod>2024-07-04T12:15:21.060Z</lastmod>
-  </url>
-  <url>
     <loc>https://natydasilva.com/index.html</loc>
-    <lastmod>2024-07-04T12:26:20.258Z</lastmod>
+    <lastmod>2024-07-06T21:39:51.788Z</lastmod>
   </url>
   <url>
-    <loc>https://natydasilva.com/about.html</loc>
-    <lastmod>2024-07-04T12:42:17.985Z</lastmod>
+    <loc>https://natydasilva.com/publications.html</loc>
+    <lastmod>2024-07-06T21:42:56.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://natydasilva.com/projects.html</loc>
+    <lastmod>2024-07-06T21:38:22.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://natydasilva.com/talks.html</loc>
+    <lastmod>2024-07-06T21:36:45.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://natydasilva.com/Blogs.html</loc>
+    <lastmod>2024-07-05T13:50:29.457Z</lastmod>
+  </url>
+  <url>
+    <loc>https://natydasilva.com/research.html</loc>
+    <lastmod>2024-07-05T12:17:02.056Z</lastmod>
+  </url>
+  <url>
+    <loc>https://natydasilva.com/teaching.html</loc>
+    <lastmod>2024-07-05T10:58:04.198Z</lastmod>
+  </url>
+  <url>
+    <loc>https://natydasilva.com/contacts.html</loc>
+    <lastmod>2024-07-06T21:38:02.704Z</lastmod>
   </url>
 </urlset>
