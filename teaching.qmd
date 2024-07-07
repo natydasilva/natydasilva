@@ -1,8 +1,8 @@
 ---
-title: "Teaching"
-editor: visual
-page-layout: full
-title-block-banner: true
+title: ""
+# editor: visual
+# page-layout: full
+# title-block-banner: true
 ---
 
 ::: {#hero-heading}

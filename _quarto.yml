@@ -42,6 +42,8 @@ website:
         text: Publications
       # - href: projects.qmd
       #   text: Projects
+      - href: teaching.qmd
+        text: Teaching
       - href: talks.qmd
         text: Talks
       # - href: Blogs.qmd
