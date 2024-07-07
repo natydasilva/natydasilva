@@ -32,19 +32,15 @@ title-block-banner: true
 
 -   O'Connor AM, Coetzee JF, da Silva N, Wang C. A mixed treatment comparison meta-analysis of antibiotic treatments for bovine respiratory disease. *Prev Vet Med*. 2013 Jun 1;110(2):77-87. doi: <https://doi.org/10.1016/j.prevetmed.2012.11.025>. Epub 2012 Dec 28. PMID: 23276402.
 
-<!-- \item[2012]Forteza, A.,  Alvarez, I., da Silva, N.,  Rossi, I. ``Incentivos y patrones de retiro en Uruguay.'' -->
+-   Alvarez, I., da Silva, N., Forteza, Álvaro, & Rossi, I. (2012). Incentives and retirement patterns in Uruguay. *Estudios Económicos* De El Colegio De México, 27(2), 219–271. <https://doi.org/10.24201/ee.v27i2.91>
 
-<!-- \textit{Estudios Economicos 2012, 27 (2)} -->
 
-<!-- \item[2010] Forteza, A.,  Alvarez, I., da Silva, N.,  Rossi, I ``Qu\'e Incentivos al Retiro Genera la Seguridad Social? El Caso Uruguayo.'' \\ -->
+-  Alvarez, Ignacio, da Silva, Natalia, Forteza, Álvaro, & Rossi, Ianina. (2010). ¿Qué Incentivos al Retiro Genera la Seguridad Social?: El Caso Uruguayo. *Latin American Journal of Economics*-formerly Cuadernos de Economía, Instituto de Economía. Pontificia Universidad Católica de Chile., vol. 47(136), pages 217-247.<https://dx.doi.org/10.4067/S0717-68212010000200004>
 
-<!-- \textit{Latin American Journal of Economics, Instituto de Econom\'ia. Pontificia Universidad Cat\'olica de Chile., vol. 47(136), pages 217-247}.  -->
 
-<!-- \item[2009] Forteza, A.,  Alvarez, I., da Silva, N.,  Rossi, I.``El retiro de los trabajadores uruguayos y la seguridad social.'' -->
+-  Forteza, A., Alvarez, I., da Silva, N., Rossi, I. (2009) El retiro de los trabajadores uruguayos y la seguridad social. *Revista de Economía, Vol. 16, No. 2.
 
-<!-- \textit{Revista de Econom\'ia, Banco Central del Uruguay, Vol. 16, No. 2}.  -->
 
-<!-- \textbf{No arbitrado:}\\ -->
 
-<!-- \item[2009]  Rodriguez, S., Alvarez, I., da Silva, N. ``Producto potencial y Brecha de Producto en Uruguay.''\\ \textit{Quantum, ISSN: 07977859, p. 4 - 21}.  -->
+<!-- Rodriguez, S., Alvarez, I., da Silva, N. \`\`Producto potencial y Brecha de Producto en Uruguay.''\\ \textit{Quantum, ISSN: 07977859, p. 4 - 21}. -->
 :::
