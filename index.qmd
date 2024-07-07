@@ -6,7 +6,7 @@ comments: false
 image: naty.png
 about:
   template: trestles
-  image-width: 10em
+  image-width: 15em
   image-shape: round
   links:
     - icon: envelope
@@ -15,9 +15,13 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/natydasilva
+    - text: orcid
+      href: https://orcid.org/0000-0002-6031-7451
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/natalia-da-silva-770700a1/     
+      href: https://www.linkedin.com/in/natalia-da-silva-770700a1/  
+    - icon: mastodon   
+      href:  https://@pacocuak@mastodon.social
     - icon: twitter
       text: Twitter
       href: https://twitter.com/pacocuak
