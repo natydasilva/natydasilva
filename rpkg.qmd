@@ -1,0 +1,48 @@
+---
+title: ""
+---
+## R Packages
+
+### CRAN
+:::: {.columns}
+::: {.column width="80%"}
+- [PPforest](https://cran.r-project.org/web/packages/randomForest/index.html): Projection Pursuit Classification Forest                 
+:::
+
+::: {.column width="20%"}
+![](PPF_trans.png){width=100, height=100}
+:::
+:::
+
+::: {.column width="80%"}
+The PPforest package (projection pursuit random forest) contains functions to run a projection pursuit random forest for classification problems. This method utilize combinations of variables in each tree construction. In a random forest each split is based on a single variable, chosen from a subset of predictors. In the PPforest, each split is based on a linear combination of randomly chosen variables. The linear combination is computed by optimizing a projection pursuit index, to get a projection of the variables that best separates the classes. The PPforest uses the PPtree algorithm, which fits a single tree to the data. Utilizing linear combinations of variables to separate classes takes the correlation between variables into account, and can outperform the basic forest when separations between groups occurs on combinations of variables. Two projection pursuit indexes, LDA and PDA, are used for PPforest.
+
+To improve the speed performance PPforest package, PPtree algorithm was translated to Rcpp
+:::
+
+### GitHub
+
+:::: {.columns}
+::: {.column width="80%"}
+- [SpICE](https://github.com/natydasilva/SpICE):Compute ICE curves clusters with geographical constrains and visualization  
+:::
+::: {.column width="20%"}
+![](SpICE_trans.png){width=100, height=100}
+:::
+:::
+::: {.column width="80%"}
+The SpICE R package implements the computation and visualisation of SpICE curves. 
+Its combines the individual conditional expectation plot (ICE-plot), a model-agnostic method for interpreting statistical learning models with spatial information. An ICE-plot extension is proposed in which spatial information is used as a restriction to define spatial ICE (SpICE) curves. 
+
+:::
+
+- [PPtreeExt](https://github.com/natydasilva/PPtreeExt)
+
+::: {.column width="80%"}
+This package presents extensions to the projection pursuit tree (PPtree) algorithm for classification problems to enhance its performance in multi-class problems, and in the presence of nonlinear separations. An interactive web app is also provided to explore the operation of the PPtree classifier and modifications under different scenarios.
+The PPtree classifier finds separations between classes on linear combinations of variables by optimizing a projection pursuit index. One of its drawbacks is that a rigid tree structure is generated -- the depth of a PPtree object is at most G-1 (where G is the number of classes) with each class forming a single terminal node.
+The modifications described here improve the predictive performance in multi-class problems, and in the presence of outliers or asymmetries.
+The goal is to make the classifier more flexible, to tackle more complex problems, while maintaining interpretability.
+
+The interactive web app is a key part of the package because allowed us to identify the main issues of the original algorithm and find better alternatives.
+:::

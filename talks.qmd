@@ -2,6 +2,42 @@
 title: ""
 ---
 
+## Contributed Talks (2013-2024)
+::: {.column width="90%"}
+
+-   2024 Transforming Data Into Information: Overcoming Challenges in Educational Data Analysis, *useR2024, Salzburg, Austria*. [Recording](https://www.youtube.com/watch?v=nm5M4dF9aLs), [Slides](https://natydasilva.quarto.pub/user2024_presentation/)
+
+-   2023 Projection Pursuit Supervised Classification. *International Conference on Data Science, Universidad Diego Portales. Santiago de Chile, Chile.*
+
+-   2022 Educational data science: Monitoring learning technologies in primary schools. *IMS-International Conference on Statistics and Data Science (ICSDS), Florencia, Italia*
+
+-   2018 Interactive Graphics for Visually Diagnosing Classifiers in R. *useR, Brisbone, Australia.*
+
+-   2018 Análisis predictivo y exploratiorio de abandono en secundaria. *Coloquio Argentino de Estadística, Río cuarto, Argentina.*
+
+-   2018 Árboles de clasificación basados en proyecciones y sus posibles extenciones *Seminario IESTA-FCEA. Montevideo, Uruguay*.
+
+-   2018 Software libre para ciencia de datos en investigación, enseñanza y trabajo profesional. ¿Porqué usarlo? *VIII Jornadas Académicas de la FCEA, Montevideo, Uruguay.*
+
+-   2017 Mesa temática de Visualización Estadística. \*VII Jornadas Académicas de la Facultad de Ciencias Económicas y de Administración, Montevideo Uruguay.
+
+-   2017 Bosques de clasificación basados en proyecciones. *Congreso Iberoamericano de Estadística, Rosario, Argentina*
+
+-   2017 Bosques de clasificación basados en proyecciones. *IV Jornadas de Estadística Alicada, Rocha, Uruguay*
+
+-   2017 metawRite: Review, write and update meta-analysis results. *useR2017, Brussels, Belgium*
+
+-   2015 PPforest package, *useR, Aalborg, Denmark*
+
+-   2015 Determinants of Poverty in U.S. *Joint Statistical Meetings, Seattle, USA*.
+
+-   2014 Twenty-Year Ecological Analysis of Adult Mosquito Communities in Iowa. *Colorado, USA, Gray bill Conference.*
+
+-   2014 Mixed treatment comparison meta-analysis of three commercial porcine circovirus type 2 (PCV2) vaccines available in the USA. *Kansas State Conference, Kansas, USA*
+:::
+
+::: {.column width="90%"}
+
 ## Invited Talks/Courses (2017-2023)
 
 -   2023 Presentación resultados Proyecto: Monitor y evaluación de uso de las plataformas educativas. *Lanzamiento global del Informe GEM 2023 sobre la tecnología en la educación. Montevideo, Uruguay*.
@@ -18,84 +54,55 @@ title: ""
 
 -   2022 Projection Pursuit Supervised Classification. *15th International Conference of the ERCIM WG on Computational and Methodological Statistics 16th International Conference on Computational and Financial Econometrics King's College. Londres, Inglaterra*
 
--  2022 Árboles de clasificación basados en proyecciones y sus posibles extensiones, *Seminario de Probabilidad y Estadística. Montevideo, Uruguay.*
+-   2022 Árboles de clasificación basados en proyecciones y sus posibles extensiones, *Seminario de Probabilidad y Estadística. Montevideo, Uruguay.*
 
--  2022 Webinar:Introducción a shiny y su uso como monitor para datos educativos. *Analítica Fundación. Puerto Rico*
+-   2022 Webinar:Introducción a shiny y su uso como monitor para datos educativos. *Analítica Fundación. Puerto Rico*
 
--  2022 Clasificación Supervisada Mediante Boques de Proyección. *4ta Jornada de Ingeniería Estadística, Universidad del Bío-Bío, Chile. Virtual*
+-   2022 Clasificación Supervisada Mediante Boques de Proyección. *4ta Jornada de Ingeniería Estadística, Universidad del Bío-Bío, Chile. Virtual*
 
--  2021  Webinar: Data Visualization Theory and Applications. *IASC-LARS Webinar on Computational Statistics and Data Science*
+-   2021 Webinar: Data Visualization Theory and Applications. *IASC-LARS Webinar on Computational Statistics and Data Science*
 
--  2021  Taller de visualización de datos en R. *Congreso Latinoamericano de Sociedades de Estadística, Montevodeo, Uruguay. Virtual*
+-   2021 Taller de visualización de datos en R. *Congreso Latinoamericano de Sociedades de Estadística, Montevodeo, Uruguay. Virtual*
 
--  2021  Reproducibilidad y replicabilidad, crisis y herramientas. *XXXVI Jornadas Anuales de Economía BCU, Montevideo, Uruguay. Virtual*
+-   2021 Reproducibilidad y replicabilidad, crisis y herramientas. *XXXVI Jornadas Anuales de Economía BCU, Montevideo, Uruguay. Virtual*
 
--  2021 Bosques aleatorios basados en proyecciones para clasificación supervisada. *Seminario Inveco-BCU, Montevideo, Uruguay. Virtual*
+-   2021 Bosques aleatorios basados en proyecciones para clasificación supervisada. *Seminario Inveco-BCU, Montevideo, Uruguay. Virtual*
 
--  2021 Interactive Graphics for Visually Diagnostic Forest Classifiers in R. *V Latin American Conference on Statistical Computing, Ciudad de México, México. Virtual*
+-   2021 Interactive Graphics for Visually Diagnostic Forest Classifiers in R. *V Latin American Conference on Statistical Computing, Ciudad de México, México. Virtual*
 
--  2020 Interactive Graphics for Visually Diagnostic Forest Classifiers in R. *Women in Data Science, Montevideo, Uruguay. Virtual*
+-   2020 Interactive Graphics for Visually Diagnostic Forest Classifiers in R. *Women in Data Science, Montevideo, Uruguay. Virtual*
 
--  2019  Taller de investigación reproducible  y control de versiones con RMarkdown y GitHub. *ConectaR 20219, San José, Costa Rica*.
+-   2019 Taller de investigación reproducible y control de versiones con RMarkdown y GitHub. *ConectaR 20219, San José, Costa Rica*.
 
--  2019 Panel sobre Big Data y Aprendizaje auntomático en Economía y Ciencias Sociales. *XXXIV Jornadas Anuales de Economía BCU*
+-   2019 Panel sobre Big Data y Aprendizaje auntomático en Economía y Ciencias Sociales. *XXXIV Jornadas Anuales de Economía BCU*
 
--  2019 Statitical technologies for evaluating and monitoring virtual learning environments.*EdTech Exchange Meeting Korean and Latin American  Experiences, Data driven educational policies*
+-   2019 Statitical technologies for evaluating and monitoring virtual learning environments.*EdTech Exchange Meeting Korean and Latin American Experiences, Data driven educational policies*
 
--  2019 El rol de la estadística en la era de la ciencia de datos. *VI Jornadas Nacionales de Estadística, Montevideo, Uruguay.*  s
+-   2019 El rol de la estadística en la era de la ciencia de datos. *VI Jornadas Nacionales de Estadística, Montevideo, Uruguay.* s
 
--  2018 Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *Melbourne user of R Network, Melbourne, Australia.*
+-   2018 Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *Melbourne user of R Network, Melbourne, Australia.*
 
--  2018 Taller sibre Visualización estadística e interactiva con ggplot2 y plotly''. *LatinR, Buenos Aires, Argentina*
+-   2018 Taller sibre Visualización estadística e interactiva con ggplot2 y plotly''. *LatinR, Buenos Aires, Argentina*
 
--  2018  Curso de Visualización de datos. *ODATA-RDA School of Research Data Science, San Pablo, Brasil.*
+-   2018 Curso de Visualización de datos. *ODATA-RDA School of Research Data Science, San Pablo, Brasil.*
 
--  2017  Mesa temática sobre matemática y género. *Facultad de Ingeniería. Montevideo, Uruguay*
+-   2017 Mesa temática sobre matemática y género. *Facultad de Ingeniería. Montevideo, Uruguay*
 
--  2017 Projection Persuit classification random forest. *Universitè Lyon 1, Laboratoire ERIC, Lyon, France.*
+-   2017 Projection Persuit classification random forest. *Universitè Lyon 1, Laboratoire ERIC, Lyon, France.*
 
--  2017 Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *Monash University, Melbourne, Australia.*
+-   2017 Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *Monash University, Melbourne, Australia.*
 
--  2017  Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *R-Ladies, Melbourne, Australia*
+-   2017 Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *R-Ladies, Melbourne, Australia*
+:::
 
-
-##  Contributed  Talks (2013-2024)
-
--  2023 Projection Pursuit Supervised Classification. *International Conference on Data Science, Universidad Diego Portales. Santiago de Chile, Chile.*
-
--  2022 Educational data science: Monitoring learning technologies in primary schools. *IMS-International Conference on Statistics and Data Science (ICSDS), Florencia, Italia*
-
--  2018 Interactive Graphics for Visually Diagnosing Classifiers in R. *useR, Brisbone, Australia.*
-
--  2018 Análisis predictivo y exploratiorio de abandono en secundaria. *Coloquio Argentino de Estadística, Río cuarto, Argentina.*
-
--  2018 Árboles de clasificación basados en proyecciones y sus posibles extenciones *Seminario IESTA-FCEA. Montevideo, Uruguay*.
-
--  2018 Software libre para ciencia de datos en investigación, enseñanza y trabajo profesional. ¿Porqué usarlo? *VIII Jornadas Académicas de la FCEA, Montevideo, Uruguay.*
-
-- 2017 Mesa temática de Visualización Estadística. *VII Jornadas Académicas de la Facultad de Ciencias Económicas y de Administración, Montevideo Uruguay.
-
--  2017 Bosques de clasificación basados en proyecciones. *Congreso Iberoamericano de Estadística, Rosario, Argentina*
-
--  2017 Bosques de clasificación basados en proyecciones. *IV Jornadas de Estadística Alicada, Rocha, Uruguay*
-
--  2017 metawRite: Review, write and update meta-analysis results. *useR2017, Brussels, Belgium*
-
-
--  2015  PPforest package, *useR, Aalborg, Denmark*
-
--  2015 Determinants of Poverty in U.S.  *Joint Statistical Meetings, Seattle, USA*.
-
--  2014 Twenty-Year Ecological Analysis of Adult Mosquito Communities in Iowa. *Colorado, USA, Gray bill Conference.*
-
--  2014  Mixed treatment comparison meta-analysis of three commercial porcine circovirus type 2 (PCV2) vaccines available in the USA. *Kansas State Conference, Kansas, USA*
-
-
+::: {.column width="90%"}
 ## Posters
 
- - 2016 Visualizing the Classification Model Produced by a Projection Pursuit Random Forest. *Joint Statistical Meetings, Chicago, USA*. Poster.
+-   2024 SpICE: An interpretable method for spatial data, *useR2024, Salzburg, Austria*. ![](poster_spice_user24.pdf)
 
-- 2015 Projection pursuit classification random forest. *Joint Statistical Meetings, Seattle, USA*.
+-   2016 Visualizing the Classification Model Produced by a Projection Pursuit Random Forest. *Joint Statistical Meetings, Chicago, USA*. Poster.
 
+-   2015 Projection pursuit classification random forest. *Joint Statistical Meetings, Seattle, USA*.
 
-- 2013 Clicks and Cliques - Exploring the Soul of the Community. *Joint Statistical Meetings-Data expo competition, Montreal, Canada*
+-   2013 Clicks and Cliques - Exploring the Soul of the Community. *Joint Statistical Meetings-Data expo competition, Montreal, Canada*
+:::

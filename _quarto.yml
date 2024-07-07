@@ -23,13 +23,10 @@ website:
         text: Talks
       - href: teaching.qmd
         text: Teaching
+      - href: rpkg.qmd
+        text: R_proy
 
-      # - href: Blogs.qmd
-      #   text: Blog
-      #   href: https://github.com/natydasilva
-      # - icon: linkedin
-      #   href: https://www.linkedin.com/in/natalia-da-silva-770700a1/
-
+   
 lang: en
 format:
   html:

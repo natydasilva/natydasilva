@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Natalia da Silva - Projects</title>
+<title>Natalia da Silva -</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -116,7 +116,7 @@ gtag('config', 'G-2J79YYG9CZ', { 'anonymize_ip': true});
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./rpkg.html"> 
+    <a class="nav-link active" href="./rpkg.html" aria-current="page"> 
 <span class="menu-text">R_proy</span></a>
   </li>  
 </ul>
@@ -132,32 +132,67 @@ gtag('config', 'G-2J79YYG9CZ', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#r-packages" id="toc-r-packages" class="nav-link active" data-scroll-target="#r-packages">R Packages</a>
+  <ul class="collapse">
+  <li><a href="#cran" id="toc-cran" class="nav-link" data-scroll-target="#cran">CRAN</a></li>
+  <li><a href="#github" id="toc-github" class="nav-link" data-scroll-target="#github">GitHub</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Projects</h1>
+
+
+
+<section id="r-packages" class="level2">
+<h2 class="anchored" data-anchor-id="r-packages">R Packages</h2>
+<section id="cran" class="level3">
+<h3 class="anchored" data-anchor-id="cran">CRAN</h3>
+<div class="columns">
+<div class="column" style="width:80%;">
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/randomForest/index.html">PPforest</a>: Projection Pursuit Classification Forest<br>
+</li>
+</ul>
+</div><div class="column" style="width:20%;">
+<p><img src="PPF_trans.png" height="100"></p>
 </div>
+</div>
+<div class="column" style="width:80%;">
+<p>The PPforest package (projection pursuit random forest) contains functions to run a projection pursuit random forest for classification problems. This method utilize combinations of variables in each tree construction. In a random forest each split is based on a single variable, chosen from a subset of predictors. In the PPforest, each split is based on a linear combination of randomly chosen variables. The linear combination is computed by optimizing a projection pursuit index, to get a projection of the variables that best separates the classes. The PPforest uses the PPtree algorithm, which fits a single tree to the data. Utilizing linear combinations of variables to separate classes takes the correlation between variables into account, and can outperform the basic forest when separations between groups occurs on combinations of variables. Two projection pursuit indexes, LDA and PDA, are used for PPforest.</p>
+<p>To improve the speed performance PPforest package, PPtree algorithm was translated to Rcpp</p>
+</div>
+</section>
+<section id="github" class="level3">
+<h3 class="anchored" data-anchor-id="github">GitHub</h3>
+<div class="columns">
+<div class="column" style="width:80%;">
+<ul>
+<li><a href="https://github.com/natydasilva/SpICE">SpICE</a>:Compute ICE curves clusters with geographical constrains and visualization<br>
+</li>
+</ul>
+</div><div class="column" style="width:20%;">
+<p><img src="SpICE_trans.png" height="100"></p>
+</div>
+</div>
+<div class="column" style="width:80%;">
+<p>The SpICE R package implements the computation and visualisation of SpICE curves. Its combines the individual conditional expectation plot (ICE-plot), a model-agnostic method for interpreting statistical learning models with spatial information. An ICE-plot extension is proposed in which spatial information is used as a restriction to define spatial ICE (SpICE) curves.</p>
+</div>
+<ul>
+<li><a href="https://github.com/natydasilva/PPtreeExt">PPtreeExt</a></li>
+</ul>
+<p>This package presents extensions to the projection pursuit tree (PPtree) algorithm for classification problems to enhance its performance in multi-class problems, and in the presence of nonlinear separations. An interactive web app is also provided to explore the operation of the PPtree classifier and modifications under different scenarios. The PPtree classifier finds separations between classes on linear combinations of variables by optimizing a projection pursuit index. One of its drawbacks is that a rigid tree structure is generated – the depth of a PPtree object is at most G-1 (where G is the number of classes) with each class forming a single terminal node. The modifications described here improve the predictive performance in multi-class problems, and in the presence of outliers or asymmetries. The goal is to make the classifier more flexible, to tackle more complex problems, while maintaining interpretability.</p>
+<p>The interactive web app is a key part of the package because allowed us to identify the main issues of the original algorithm and find better alternatives.</p>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-
-
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
