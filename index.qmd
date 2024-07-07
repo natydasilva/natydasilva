@@ -45,8 +45,6 @@ I'm Assistant Professor in the Department of Statistics at the Universidad de la
 ::: {.column width="60%"}
 ## Education
 
-
-
 ##### {{< fa graduation-cap >}} PhD in Statistics, 2017
 
 ###### Iowa State University, USA {style="color: gray"}
