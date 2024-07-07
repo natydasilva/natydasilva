@@ -36,8 +36,15 @@ Its combines the individual conditional expectation plot (ICE-plot), a model-agn
 
 :::
 
-- [PPtreeExt](https://github.com/natydasilva/PPtreeExt)
+:::: {.columns}
+::: {.column width="80%"}
+- [PPtreeExt](https://github.com/natydasilva/PPtreeExt): Extensions for PPtree algorithm
+:::
 
+::: {.column width="20%"}
+![](PPTex_trans.png){width=100, height=100}
+:::
+:::
 ::: {.column width="80%"}
 This package presents extensions to the projection pursuit tree (PPtree) algorithm for classification problems to enhance its performance in multi-class problems, and in the presence of nonlinear separations. An interactive web app is also provided to explore the operation of the PPtree classifier and modifications under different scenarios.
 The PPtree classifier finds separations between classes on linear combinations of variables by optimizing a projection pursuit index. One of its drawbacks is that a rigid tree structure is generated -- the depth of a PPtree object is at most G-1 (where G is the number of classes) with each class forming a single terminal node.
@@ -46,3 +53,7 @@ The goal is to make the classifier more flexible, to tackle more complex problem
 
 The interactive web app is a key part of the package because allowed us to identify the main issues of the original algorithm and find better alternatives.
 :::
+
+## Shiny Apps
+
+Under construction

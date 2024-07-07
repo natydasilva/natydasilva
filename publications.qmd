@@ -8,6 +8,7 @@ title-block-banner: true
 ::: {#hero-heading}
 ## Papers
 
+::: {.column width="80%"}
 -   Wrobel, J., Hector, E. C., Crawford, L., McGowan, L. D., da Silva, N., Goldsmith, J., … Wolfson, J. (2024). Partnering With Authors to Enhance Reproducibility at JASA. *Journal of the American Statistical Association*, 119(546), 795–797. <https://doi.org/10.1080/01621459.2024.2340557>
 
 -   da Silva, N., Cook, D. & Lee, EK. Interactive graphics for visually diagnosing forest classifiers in R. *Comput Stat* (2023). <https://doi.org/10.1007/s00180-023-01323-x>
@@ -40,9 +41,12 @@ title-block-banner: true
 -  Forteza, A., Alvarez, I., da Silva, N., Rossi, I. (2009) El retiro de los trabajadores uruguayos y la seguridad social. *Revista de Economía*, Vol. 16, No. 2.
 
 -  Rodriguez, S., Alvarez, I., da Silva, N. (2009) Producto potencial y Brecha de Producto en Uruguay. *Quantum*, ISSN: 07977859, p. 4 - 21}. 
+:::
 
 ## Accepted Papers
 
-da Silva, N., Alvarez-Castro, I., Moreno, L., Sosa, A. SpICE: An interpretable method for spatial data. *Comput Stat*, Accepted July 2024. 
+::: {.column width="80%"}
+da Silva, N., Alvarez-Castro, I., Moreno, L., Sosa, A. SpICE: An interpretable method for spatial data. *Comput Stat*, Accepted July 2024.
+:::
 :::
 
