@@ -1,129 +1,101 @@
 ---
-title: "Talks"
+title: ""
 ---
 
-<!-- {\bf 5.2- Presentaci\'on de trabajos en congresos arbitrados}\\ -->
+## Invited Talks/Courses (2017-2023)
 
-<!-- \begin{list2} -->
+-   2023 Presentación resultados Proyecto: Monitor y evaluación de uso de las plataformas educativas. *Lanzamiento global del Informe GEM 2023 sobre la tecnología en la educación. Montevideo, Uruguay*.
 
-<!-- \item[2023] ``Projection Pursuit Supervised Classification.''\\ -->
+-   2023: Curso de Visualización de datos con R. *Escuela Internacional de Ciencias Sociales Computacionales, FCS. Montevideo, Uruguay*.
 
-<!-- International Conference on Data Science, Universidad Diego Portales. Santiago de Chile, Chile. -->
-
-<!-- \item[2022]``Educational data science: Monitoring learning technologies in primary schools.''\\ -->
-
-<!-- \textit{IMS-International Conference on Statistics and Data Science (ICSDS), Florencia, Italia}. Presentación Oral. -->
-
-<!-- \item[2018] ``Interactive Graphics for Visually Diagnosing Classifiers in R.'' \textit{useR, Brisbone, Australia.} Presentaci\'on Oral. -->
-
-<!-- \item[2018] ``An\'alisis predictivo y exploratiorio de abandono en secundaria.'' \textit{Coloquio Argentino de Estad\'istica, R\'io cuarto, Argentina.} Presentaci\'on Oral. -->
-
-<!-- \item[2018] ``\'Arboles de clasificaci\'on basados en proyecciones y sus posibles extenciones'' \textit{Seminario IESTA-FCEA. Montevideo, Uruguay.} -->
-
-<!-- \item[2018] ``Software libre para ciencia de datos en investigaci\'on, ense\~nanza y trabajo profesional. ¿Porqu\'e usarlo?''\textit{VIII Jornadas Acad\'emicas de la FCEA, Montevideo, Uruguay.} Presentaci\'on Oral. -->
-
-<!-- \item[2017]``Mesa tem\'atica de Visualizaci\'on Estad\'istica''. \textit{VII Jornadas Acad\'emicas de la Facultad de Ciencias Econ\'omicas y de Administraci\'on, Montevideo Uruguay}. Co-Organizadora y Expositora. -->
-
-<!-- \item[2017] ``Bosques de clasificaci\'on basados en proyecciones''. \textit{Congreso Iberoamericano de Estad\'istica, Rosario, Argentina}. Presentaci\'on Oral. -->
-
-<!-- \item[2017] ``Bosques de clasificaci\'on basados en proyecciones''. \textit{IV Jornadas de Estad\'istica Alicada, Rocha, Uruguay}. Presentaci\'on Oral. -->
-
-<!-- \item[2017]``metawRite: Review, write and update meta-analysis results''. \textit{useR2017, Brussels, Belgium}. Presentaci\'on Oral. -->
-
-<!-- \item[2016] ``Visualizing the Classification Model Produced by a Projection Pursuit Random Forest''. \textit{ Joint Statistical Meetings, Chicago, USA}. Poster. -->
-
-<!-- \item[2015] ``PPforest package'', \textit{useR, Aalborg, Denmark,}. Presentaci\'on Oral. -->
-
-<!-- \item[2015] ``Projection pursuit classification random forest''. \textit{Joint Statistical Meetings, Seattle, USA}. Poster -->
-
-<!-- \item[2015] ``Determinants of Poverty in U.S.'' \textit{ Joint Statistical Meetings, Seattle, USA}. Poster -->
-
-<!-- \item[2014] ``Twenty-Year Ecological Analysis of Adult Mosquito Communities in Iowa.'' \textit{ Colorado, USA, Gray bill Conference.} Poster -->
-
-<!-- \item[2014] ``Mixed treatment comparison meta-analysis of three commercial porcine circovirus type 2 (PCV2) vaccines available in the USA.''.\textit{ Kansas State Conference, Kansas, USA}. Poster -->
-
-<!-- \item[2013] ``Clicks and Cliques - Exploring the Soul of the Community''. \textit{  Joint Statistical Meetings-Data expo competition, Montreal, Canada}. Poster -->
-
-<!-- \end{list2} -->
-
-## Invited Talks
-
--   2023 Presentación resultados Proyecto: Monitor y evaluación de uso de las plataformas educativas. Lanzamiento global del Informe GEM 2023 sobre la tecnología en la educación. Montevideo, Uruguay.
-
--   2023: Curso de Visualización de datos con R. Escuela Internacional de Ciencias Sociales Computacionales, FCS. Montevideo, Uruguay.
-
--   2023: Importancia de la Visualización y desafíos. Charla apertura para presentación del Diploma en Visualización de datos. Escuela de Estadística, Universidad Nacional de Rosario. Rosario, Argentina.
+-   2023: Importancia de la Visualización y desafíos. Charla apertura para presentación del Diploma en Visualización de datos. *Escuela de Estadística, Universidad Nacional de Rosario. Rosario, Argentina*.
 
 -   2023 SpICE: Interpretable method for spatial data. *Seminario en el Departamento de Estadística de Dalhousie University, Virtual. Nueva Escocia, Canadá*
 
-<!-- \item[2023] ``Black-box models interpretability for property valuation'', keynote\\ -->
+-   2023 Black-box models interpretability for property valuation, keynote talk at *VII Latin American Conference on Statistical Computing. Lima, Perú*
 
-<!-- \textit{VII Latin American Conference on Statistical Computing. Lima, Perú} -->
+-   2023 Course: Introduction to Statistical Learning with tidymodels. *VII Latin American Conference on Statistical Computing. Lima, Perú*
 
-<!-- \item[2023] ``Course: Introduction to Statistical Learning with tidymodels.''\\ -->
+-   2022 Projection Pursuit Supervised Classification. *15th International Conference of the ERCIM WG on Computational and Methodological Statistics 16th International Conference on Computational and Financial Econometrics King's College. Londres, Inglaterra*
 
-<!-- \textit{VII Latin American Conference on Statistical Computing. Lima, Perú} -->
+-  2022 Árboles de clasificación basados en proyecciones y sus posibles extensiones, *Seminario de Probabilidad y Estadística. Montevideo, Uruguay.*
 
-<!-- \item[2022] ``Projection Pursuit Supervised Classification.''\\ -->
+-  2022 Webinar:Introducción a shiny y su uso como monitor para datos educativos. *Analítica Fundación. Puerto Rico*
 
-<!-- \textit{15th International Conference of the ERCIM WG on Computational and Methodological Statistics 16th International Conference on Computational and Financial Econometrics -->
+-  2022 Clasificación Supervisada Mediante Boques de Proyección. *4ta Jornada de Ingeniería Estadística, Universidad del Bío-Bío, Chile. Virtual*
 
-<!-- King's College. Londres, Inglaterra} -->
+-  2021  Webinar: Data Visualization Theory and Applications. *IASC-LARS Webinar on Computational Statistics and Data Science*
 
-<!-- \item[2022] ``Árboles de clasificación basados en proyecciones y sus posibles extensiones''\\ -->
+-  2021  Taller de visualización de datos en R. *Congreso Latinoamericano de Sociedades de Estadística, Montevodeo, Uruguay. Virtual*
 
-<!-- \textit{Seminario de Probabilidad y Estadística. Montevideo, Uruguay.} -->
+-  2021  Reproducibilidad y replicabilidad, crisis y herramientas. *XXXVI Jornadas Anuales de Economía BCU, Montevideo, Uruguay. Virtual*
 
-<!-- \item[2022] `` Webinar:Introducción a shiny y su uso como monitor para datos educativos.''\\ -->
+-  2021 Bosques aleatorios basados en proyecciones para clasificación supervisada. *Seminario Inveco-BCU, Montevideo, Uruguay. Virtual*
 
-<!-- \textit{Anal\'itica Fundaci\'on. Puerto Rico} -->
+-  2021 Interactive Graphics for Visually Diagnostic Forest Classifiers in R. *V Latin American Conference on Statistical Computing, Ciudad de México, México. Virtual*
 
-<!-- \item[2022] ``Clasificación Supervisada Mediante Boques de Proyección''\\ -->
+-  2020 Interactive Graphics for Visually Diagnostic Forest Classifiers in R. *Women in Data Science, Montevideo, Uruguay. Virtual*
 
-<!-- \textit{4ta Jornada de Ingenier\'ia Estad\'istica, Universidad del Bío-Bío, Chile. Virtual} -->
+-  2019  Taller de investigación reproducible  y control de versiones con RMarkdown y GitHub. *ConectaR 20219, San José, Costa Rica*.
 
-<!-- \item[2021] ``Webinar: Data Visualization Theory and Applications.''\\ \textit{IASC-LARS Webinar on Computational Statistics and Data Science } -->
+-  2019 Panel sobre Big Data y Aprendizaje auntomático en Economía y Ciencias Sociales. *XXXIV Jornadas Anuales de Economía BCU*
 
-<!-- \item[2021] ``Taller de visualizaci\'on de datos en R.''\\ -->
+-  2019 Statitical technologies for evaluating and monitoring virtual learning environments.*EdTech Exchange Meeting Korean and Latin American  Experiences, Data driven educational policies*
 
-<!-- \textit{Congreso Latinoamericano de Sociedades de Estad\'istica, Montevodeo, Uruguay. Virtual} -->
+-  2019 El rol de la estadística en la era de la ciencia de datos. *VI Jornadas Nacionales de Estadística, Montevideo, Uruguay.*  s
 
-<!-- \item[2021] ``Reproducibilidad y replicabilidad, crisis y herramientas.''\\ \textit{XXXVI Jornadas Anuales de Econom\'ia BCU, Montevideo, Uruguay. Virtual} -->
+-  2018 Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *Melbourne user of R Network, Melbourne, Australia.*
 
-<!-- \item[2021] ``Bosques aleatorios basados en proyecciones para clasificaci\'on supervisada.'' \\ -->
+-  2018 Taller sibre Visualización estadística e interactiva con ggplot2 y plotly''. *LatinR, Buenos Aires, Argentina*
 
-<!-- \textit{Seminario Inveco-BCU, Montevideo, Uruguay. Virtual} -->
+-  2018  Curso de Visualización de datos. *ODATA-RDA School of Research Data Science, San Pablo, Brasil.*
 
-<!-- \item[2021] ``Interactive Graphics for Visually Diagnostic Forest Classifiers in R.''\\ -->
+-  2017  Mesa temática sobre matemática y género. *Facultad de Ingeniería. Montevideo, Uruguay*
 
-<!-- \textit{V Latin American Conference on Statistical Computing, Ciudad de M\'exico, M\'exico. Virtual} -->
+-  2017 Projection Persuit classification random forest. *Universitè Lyon 1, Laboratoire ERIC, Lyon, France.*
 
-<!-- \item[2020] ``Interactive Graphics for Visually Diagnostic Forest Classifiers in R.''\\ -->
+-  2017 Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *Monash University, Melbourne, Australia.*
 
-<!-- \textit{Women in Data Science, Montevideo, Uruguay. Virtual} -->
+-  2017  Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *R-Ladies, Melbourne, Australia*
 
-<!-- \item[2019] ``Taller de investigaci\'on reproducible  y control de versiones con RMarkdown y GitHub. San Jos\'e, Costa Rica.'' -->
 
-<!-- \item[2019] ``Panel sobre Big Data y Aprendizaje auntom\'atico en Econom\'ia y Ciencias Sociales.'' \textit{XXXIV Jornadas Anuales de Econom\'ia BCU} -->
+##  Contributed  Talks (2013-2024)
 
-<!-- \item[2019] ``Statitical technologies for evaluating and monitoring virtual learning environments.''\textit{EdTech Exchange Meeting Korean and Latin American  Experiences, Data driven educational policies} -->
+-  2023 Projection Pursuit Supervised Classification. *International Conference on Data Science, Universidad Diego Portales. Santiago de Chile, Chile.*
 
-<!-- \item[2019] ``El rol de la estad\'istica en la era de la ciencia de datos.''\textit{VI Jornadas Nacionales de Estadi\'istica, Montevideo, Uruguay.} -->
+-  2022 Educational data science: Monitoring learning technologies in primary schools. *IMS-International Conference on Statistics and Data Science (ICSDS), Florencia, Italia*
 
-<!-- \item[2018] ``Interactive Graphics for Visually Diagnosing Forest Classifiers in R.'' \textit{Melbourne user of R Network, Melbourne, Australia.} -->
+-  2018 Interactive Graphics for Visually Diagnosing Classifiers in R. *useR, Brisbone, Australia.*
 
-<!-- \item[2018] ``Taller sibre Visualizaci\'on est\'atica e interactiva con ggplot2 y plotly''. \textit{LatinR, Buenos Aires, Argentina} -->
+-  2018 Análisis predictivo y exploratiorio de abandono en secundaria. *Coloquio Argentino de Estadística, Río cuarto, Argentina.*
 
-<!-- \item[2018] `` Curso de Visualizaci\'on de datos''. \textit{CODATA-RDA School of Research Data Science, San Pablo, Brasil.} -->
+-  2018 Árboles de clasificación basados en proyecciones y sus posibles extenciones *Seminario IESTA-FCEA. Montevideo, Uruguay*.
 
-<!-- \item[2017] ``Mesa tem\'atica sobre matem\'atica y g\'enero''. \textit{Facultad de Ingenier\'ia. Montevideo, Uruguay}\\ -->
+-  2018 Software libre para ciencia de datos en investigación, enseñanza y trabajo profesional. ¿Porqué usarlo? *VIII Jornadas Académicas de la FCEA, Montevideo, Uruguay.*
 
-<!-- \item[2017] ``Projection Persuit classification random forest''. \textit{Universit\'e Lyon 1, Laboratoire ERIC, Lyon, France.} -->
+- 2017 Mesa temática de Visualización Estadística. *VII Jornadas Académicas de la Facultad de Ciencias Económicas y de Administración, Montevideo Uruguay.
 
-<!-- \item[2017] ``Interactive Graphics for Visually Diagnosing Forest Classifiers in R''. \textit{Monash University, Melbourne, Australia}. -->
+-  2017 Bosques de clasificación basados en proyecciones. *Congreso Iberoamericano de Estadística, Rosario, Argentina*
 
-<!-- \item[2017] ``Interactive Graphics for Visually Diagnosing Forest Classifiers in R''. \textit{R-Ladies, Melbourne, Australia}.  -->
+-  2017 Bosques de clasificación basados en proyecciones. *IV Jornadas de Estadística Alicada, Rocha, Uruguay*
 
-<!-- \item[2013] ``Introduci\'on a meta-an\'alisis''. \textit{Seminario Departamento de Entomolog\'ia de Iowa State University,Ames-Iowa, USA}  -->
+-  2017 metawRite: Review, write and update meta-analysis results. *useR2017, Brussels, Belgium*
 
-<!-- \end{list2} -->
+
+-  2015  PPforest package, *useR, Aalborg, Denmark*
+
+-  2015 Determinants of Poverty in U.S.  *Joint Statistical Meetings, Seattle, USA*.
+
+-  2014 Twenty-Year Ecological Analysis of Adult Mosquito Communities in Iowa. *Colorado, USA, Gray bill Conference.*
+
+-  2014  Mixed treatment comparison meta-analysis of three commercial porcine circovirus type 2 (PCV2) vaccines available in the USA. *Kansas State Conference, Kansas, USA*
+
+
+## Posters
+
+ - 2016 Visualizing the Classification Model Produced by a Projection Pursuit Random Forest. *Joint Statistical Meetings, Chicago, USA*. Poster.
+
+- 2015 Projection pursuit classification random forest. *Joint Statistical Meetings, Seattle, USA*.
+
+
+- 2013 Clicks and Cliques - Exploring the Soul of the Community. *Joint Statistical Meetings-Data expo competition, Montreal, Canada*
