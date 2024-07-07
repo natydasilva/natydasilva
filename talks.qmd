@@ -1,5 +1,5 @@
 ---
-title: "Talks"
+title: ""
 ---
 
 ## Invited Talks/Courses (2017-2023)
