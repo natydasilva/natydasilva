@@ -32,7 +32,6 @@ format:
       dark: [pulse, theme-dark.scss]
     css: styles.css
     toc: true
-    # backgroundcolor: "#7B7C74"
 editor: visual
 
 execute:

@@ -9,6 +9,7 @@ title: ""
 ## Teaching as Assistant Professor (2017-Now)
 
 **Universidad de la República (Uruguay)**
+
 ::: {.justify}
 -   Statistical learning (2022, 2024), Masters level in Economics
 -   Statistical inference (2024), Masters level in Economics

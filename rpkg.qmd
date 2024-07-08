@@ -33,7 +33,7 @@ To improve the speed performance PPforest package, PPtree algorithm was translat
 
 :::: {.columns}
 ::: {.column width="80%"}
-- [SpICE](https://github.com/natydasilva/SpICE):Compute ICE curves clusters with geographical constrains and visualization  
+- [SpICE](https://github.com/natydasilva/SpICE): Compute ICE curves clusters with geographical constrains and visualization  
 :::
 ::: {.column width="20%"}
 ![](SpICE_trans.png){width=100, height=100}
@@ -73,7 +73,7 @@ The interactive web app is a key part of the package because allowed us to ident
 
 :::: {.columns}
 ::: {.column width="80%"}
-- [metaSurvey](https://github.com/metasurveyr/metasurvey):Analysis of survey sampling data using meta-programming techniques.
+- [metaSurvey](https://github.com/metasurveyr/metasurvey): Analysis of survey sampling data using meta-programming techniques.
 :::
 ::: {.column width="20%"}
 ![](metasurvey.png){width=120, height=120}
