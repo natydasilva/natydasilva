@@ -96,6 +96,7 @@ Under construction
 
 ## R community 
 
+### LatinR
 
 :::: {.columns}
 ::: {.column width="80%"}
@@ -131,13 +132,30 @@ and Fabrizio Scrollini (Humanitarian OpenStreetMap Team)
 :::
 :::
 
+### RLadies Montevideo
 
 :::: {.columns}
 ::: {.column width="80%"}
-[RLadies_mvd](https://www.meetup.com/rladies-montevideo/): RLadies Montevideo chapter.
+[RLadies_mvd](https://www.meetup.com/rladies-montevideo/): RLadies Montevideo Chapter.
 :::
 
 ::: {.column width="20%"}
 ![](RLadies_Montevideo.png){width=120, height=120}
+:::
+:::
+
+::: {.column width="80%"}
+::: {.justify}
+R-Ladies Montevideo is part of a worldwide organization that promotes gender diversity in the R community (programming language). Our goal is to create a comfortable and friendly space to exchange ideas, knowledge, and make R more popular and accessible, especially among women living in Montevideo.
+
+Although female participation is prioritized, anyone interested in R is welcome. The events will always be free because R-Ladies is a social initiative. The Global Code of Conduct for R-Ladies can be found here.
+
+Join this Meetup to learn about upcoming events, we look forward to seeing you!
+
+You can find us at:
+
+Twitter: @RLadiesMvd and @RLadiesGlobal (R-Ladies from around the world)
+GitHub
+By writing to montevideo@rladies.org.
 :::
 :::
