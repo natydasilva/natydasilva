@@ -4,7 +4,7 @@ title: ""
 
 ## Contributed Talks (2013-2024)
 ::: {.column width="90%"}
-
+::: {.justify}
 -   2024 Transforming Data Into Information: Overcoming Challenges in Educational Data Analysis, *useR2024, Salzburg, Austria*. [Recording](https://www.youtube.com/watch?v=nm5M4dF9aLs), [Slides](https://natydasilva.quarto.pub/user2024_presentation/)
 
 -   2023 Projection Pursuit Supervised Classification. *International Conference on Data Science, Universidad Diego Portales. Santiago de Chile, Chile.* [Presentation](https://github.com/natydasilva/ICSC_slides/blob/main/da_silva_slides.pdf)
@@ -35,11 +35,12 @@ title: ""
 
 -   2014 Mixed treatment comparison meta-analysis of three commercial porcine circovirus type 2 (PCV2) vaccines available in the USA. *Kansas State Conference, Kansas, USA*
 :::
+:::
 
 ::: {.column width="90%"}
 
 ## Invited Talks/Courses (2017-2023)
-
+::: {.justify}
 -   2023 Presentación resultados Proyecto: Monitor y evaluación de uso de las plataformas educativas. *Lanzamiento global del Informe GEM 2023 sobre la tecnología en la educación. Montevideo, Uruguay*.
 
 -   2023: Curso de Visualización de datos con R. *Escuela Internacional de Ciencias Sociales Computacionales, FCS. Montevideo, Uruguay*.
@@ -94,10 +95,12 @@ title: ""
 
 -   2017 Interactive Graphics for Visually Diagnosing Forest Classifiers in R. *R-Ladies, Melbourne, Australia*
 :::
+:::
 
 ::: {.column width="90%"}
 ## Posters
 
+::: {.justify}
 -   2024 SpICE: An interpretable method for spatial data, *useR2024, Salzburg, Austria*. ![](poster_spice_user24.pdf)
 
 -   2016 Visualizing the Classification Model Produced by a Projection Pursuit Random Forest. *Joint Statistical Meetings, Chicago, USA*. Poster.
@@ -105,4 +108,5 @@ title: ""
 -   2015 Projection pursuit classification random forest. *Joint Statistical Meetings, Seattle, USA*.
 
 -   2013 Clicks and Cliques - Exploring the Soul of the Community. *Joint Statistical Meetings-Data expo competition, Montreal, Canada*
+:::
 :::
