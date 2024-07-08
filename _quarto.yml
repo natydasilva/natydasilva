@@ -6,19 +6,16 @@ website:
   title: "Natalia da Silva"
   page-navigation: true
   site-url: "https://natydasilva.com/"
-  google-analytics: "G-2J79YYG9CZ"
+  google-analytics: "G-F74TD8VD5F"
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/), by Natalia da Silva. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
   navbar:
    right:
       - href: index.qmd
         text: Home
-      # - href: packages.qmd
-      #   text: Software
       - href: publications.qmd
         text: Publications
-      # - href: projects.qmd
-      #   text: Projects
+   
       - href: talks.qmd
         text: Talks
       - href: teaching.qmd

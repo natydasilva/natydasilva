@@ -101,7 +101,7 @@ title: ""
 ## Posters
 
 ::: {.justify}
--   2024 SpICE: An interpretable method for spatial data, *useR2024, Salzburg, Austria*. ![](poster_spice_user24.pdf)
+-   2024 SpICE: An interpretable method for spatial data, *useR2024, Salzburg, Austria*. [Poster](https://github.com/natydasilva/Poster_user2024/blob/main/poster_SpICE_useR24.pdf)
 
 -   2016 Visualizing the Classification Model Produced by a Projection Pursuit Random Forest. *Joint Statistical Meetings, Chicago, USA*. Poster.
 
