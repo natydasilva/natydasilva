@@ -42,7 +42,7 @@ title-block-banner: true
 
 -  Forteza, A., Alvarez, I., da Silva, N., Rossi, I. (2009) El retiro de los trabajadores uruguayos y la seguridad social. *Revista de Economía*, Vol. 16, No. 2.
 
--  Rodriguez, S., Alvarez, I., da Silva, N. (2009) Producto potencial y Brecha de Producto en Uruguay. *Quantum*, ISSN: 07977859, p. 4 - 21}. 
+-  Rodriguez, S., Alvarez, I., da Silva, N. (2009) Producto potencial y Brecha de Producto en Uruguay. *Quantum*, ISSN: 07977859, p. 4 - 21. 
 :::
 :::
 
@@ -50,7 +50,7 @@ title-block-banner: true
 
 ::: {.column width="80%"}
 ::: {.justify}
-da Silva, N., Alvarez-Castro, I., Moreno, L., Sosa, A. SpICE: An interpretable method for spatial data. *Comput Stat*, Accepted July 2024.
+da Silva, N., Alvarez-Castro, I., Moreno, L., Sosa, A. SpICE: An interpretable method for spatial data. *Comput Stat*, Accepted July 2024.[GitHub repo](https://github.com/natydasilva/SpICE_COST)
 :::
 :::
 :::
