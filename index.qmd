@@ -15,7 +15,7 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/natydasilva
-    - icon: ai-orcid
+    - icon: orcid
     - text: orcid
       href: https://orcid.org/0000-0002-6031-7451
     - icon: linkedin
