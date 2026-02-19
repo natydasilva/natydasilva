@@ -55,6 +55,11 @@ title-block-banner: true
 ::: {.justify}
 - da Silva, N., Cook, D., & Lee, E. K. An Enhanced Projection Pursuit Tree Classifier with Visual Methods for Assessing Algorithmic Improvements
 
+- da Silva, N., Tancredi, B., & Alvarez-Castro, I. Student Performance and LMS Activity in Primary Schools: A Bayesian Additive Regression Trees Approach with Random Effects. <https://www.researchsquare.com/article/rs-7357300/v1>
+
+- Gómez, E., Méndez, G., Rímoli, P. & da Silva, N. Registros sociales y aprendizaje estadístico: respuestas oportunas para gestantes y niñez temprana en Uruguay. <https://revista.ismercosur.org/index.php/revista/article/view/152>
+
+
 :::
 :::
 :::

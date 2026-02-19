@@ -3,7 +3,7 @@ title: "Natalia da silva"
 description: Assistant Professor
 page-layout: full
 comments: false
-image: naty.png
+image: naty_new.png
 about:
   template: trestles
   image-width: 15em
