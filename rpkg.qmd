@@ -26,27 +26,6 @@ The PPforest package (projection pursuit random forest) contains functions to ru
 To improve the speed performance PPforest package, PPtree algorithm was translated to Rcpp
 :::
 :::
-
-### GitHub
-
-#### SpICE
-
-:::: {.columns}
-::: {.column width="80%"}
-- [SpICE](https://github.com/natydasilva/SpICE): Compute ICE curves clusters with geographical constrains and visualization  
-:::
-::: {.column width="20%"}
-![](SpICE_trans.png){width=100, height=100}
-:::
-:::
-::: {.column width="80%"}
-::: {.justify}
-The SpICE R package implements the computation and visualisation of SpICE curves. 
-Its combines the individual conditional expectation plot (ICE-plot), a model-agnostic method for interpreting statistical learning models with spatial information. An ICE-plot extension is proposed in which spatial information is used as a restriction to define spatial ICE (SpICE) curves. 
-:::
-:::
-
-
 #### PPtreeExt
 :::: {.columns}
 
@@ -68,6 +47,28 @@ The goal is to make the classifier more flexible, to tackle more complex problem
 The interactive web app is a key part of the package because allowed us to identify the main issues of the original algorithm and find better alternatives.
 :::
 :::
+
+
+### GitHub
+
+#### SpICE
+
+:::: {.columns}
+::: {.column width="80%"}
+- [SpICE](https://github.com/natydasilva/SpICE): Compute ICE curves clusters with geographical constrains and visualization  
+:::
+::: {.column width="20%"}
+![](SpICE_trans.png){width=100, height=100}
+:::
+:::
+::: {.column width="80%"}
+::: {.justify}
+The SpICE R package implements the computation and visualisation of SpICE curves. 
+Its combines the individual conditional expectation plot (ICE-plot), a model-agnostic method for interpreting statistical learning models with spatial information. An ICE-plot extension is proposed in which spatial information is used as a restriction to define spatial ICE (SpICE) curves. 
+:::
+:::
+
+
 
 #### metasurvey
 
