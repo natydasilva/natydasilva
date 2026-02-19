@@ -11,9 +11,12 @@ title-block-banner: true
 ::: {.column width="80%"}
 
 ::: {.justify}
+-   da Silva, N., Alvarez-Castro, I., Moreno, L., Sosa, A. SpICE: An interpretable method for spatial data. *Comput Stat* 40, 4059–4079 (2025). <https://doi.org/10.1007/s00180-024-01538-6>
+
+- da Silva, N., Cook, D. & Lee, EK. Interactive graphics for visually diagnosing forest classifiers in R. *Comput Stat* 40, 3105–3125 (2025). <https://doi.org/10.1007/s00180-023-01323-x>
+
 -   Wrobel, J., Hector, E. C., Crawford, L., McGowan, L. D., da Silva, N., Goldsmith, J., … Wolfson, J. (2024). Partnering With Authors to Enhance Reproducibility at JASA. *Journal of the American Statistical Association*, 119(546), 795–797. <https://doi.org/10.1080/01621459.2024.2340557>
 
--   da Silva, N., Cook, D. & Lee, EK. Interactive graphics for visually diagnosing forest classifiers in R. *Comput Stat* (2023). <https://doi.org/10.1007/s00180-023-01323-x>
 
 -   da Silva, N. (2023). Intersection between environmental data science and the R community in Latin America. *Environmetrics*, 34(2), e2731.<https://doi.org/10.1002/env.2731>
 
@@ -46,11 +49,12 @@ title-block-banner: true
 :::
 :::
 
-## Accepted Papers
+## Working Papers
 
 ::: {.column width="80%"}
 ::: {.justify}
-da Silva, N., Alvarez-Castro, I., Moreno, L., Sosa, A. SpICE: An interpretable method for spatial data. *Comput Stat*, Accepted July 2024.[GitHub repo](https://github.com/natydasilva/SpICE_COST)
+- da Silva, N., Cook, D., & Lee, E. K. An Enhanced Projection Pursuit Tree Classifier with Visual Methods for Assessing Algorithmic Improvements
+
 :::
 :::
 :::

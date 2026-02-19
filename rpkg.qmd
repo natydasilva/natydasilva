@@ -69,14 +69,14 @@ The interactive web app is a key part of the package because allowed us to ident
 :::
 :::
 
-#### metaSurvey
+#### metasurvey
 
 :::: {.columns}
 ::: {.column width="80%"}
-- [metaSurvey](https://github.com/metasurveyr/metasurvey): Analysis of survey sampling data using meta-programming techniques.
+- [metasurvey](https://github.com/metasurveyr/metasurvey): Analysis of survey sampling data using meta-programming techniques.
 :::
 ::: {.column width="20%"}
-![](metasurvey.png){width=120, height=120}
+![](metasurvey_new.svg){width=120, height=120}
 :::
 :::
 ::: {.column width="80%"}
