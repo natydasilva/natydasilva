@@ -119,8 +119,6 @@ Its combines the individual conditional expectation plot (ICE-plot), a model-agn
 ::: {.column width="80%"}
 - [LatinR](https://latin-r.com): Latinamerican Conference About the Use of R in R&D
 
-
-
 :::
 ::: {.column width="20%"}
 ![](latinr_icon.ai-3.png){width=120, height=120}
