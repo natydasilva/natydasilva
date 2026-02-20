@@ -11,7 +11,7 @@ title: ""
 
 :::: {.columns}
 ::: {.column width="80%"}
-- [PPforest](https://cran.r-project.org/web/packages/randomForest/index.html): Projection Pursuit Classification Forest                 
+- [PPforest](https://natydasilva.github.io/PPforest/): Projection Pursuit Classification Forest                 
 :::
 
 ::: {.column width="20%"}
@@ -30,7 +30,7 @@ To improve the speed performance PPforest package, PPtree algorithm was translat
 :::: {.columns}
 
 ::: {.column width="80%"}
-- [PPtreeExt](https://github.com/natydasilva/PPtreeExt): Extensions for PPtree algorithm
+- [PPtreeExt](https://natydasilva.github.io/PPtreeExt/): Extensions for PPtree algorithm
 :::
 
 ::: {.column width="20%"}
@@ -55,7 +55,7 @@ The interactive web app is a key part of the package because allowed us to ident
 
 :::: {.columns}
 ::: {.column width="80%"}
-- [metasurvey](https://github.com/metasurveyr/metasurvey): Analysis of survey sampling data using meta-programming techniques.
+- [metasurvey](https://metasurveyr.github.io/metasurvey/): Analysis of survey sampling data using meta-programming techniques.
 :::
 ::: {.column width="20%"}
 ![](metasurvey_new.svg){width=120, height=120}
