@@ -51,25 +51,6 @@ The interactive web app is a key part of the package because allowed us to ident
 
 ### GitHub
 
-#### SpICE
-
-:::: {.columns}
-::: {.column width="80%"}
-- [SpICE](https://github.com/natydasilva/SpICE): Compute ICE curves clusters with geographical constrains and visualization  
-:::
-::: {.column width="20%"}
-![](SpICE_trans.png){width=100, height=100}
-:::
-:::
-::: {.column width="80%"}
-::: {.justify}
-The SpICE R package implements the computation and visualisation of SpICE curves. 
-Its combines the individual conditional expectation plot (ICE-plot), a model-agnostic method for interpreting statistical learning models with spatial information. An ICE-plot extension is proposed in which spatial information is used as a restriction to define spatial ICE (SpICE) curves. 
-:::
-:::
-
-
-
 #### metasurvey
 
 :::: {.columns}
@@ -90,10 +71,39 @@ The package is currently under development, and it is not yet available on CRAN.
 :::
 
 :::
+#### SpICE
+
+:::: {.columns}
+::: {.column width="80%"}
+- [SpICE](https://github.com/natydasilva/SpICE): Compute ICE curves clusters with geographical constrains and visualization  
+:::
+::: {.column width="20%"}
+![](SpICE_trans.png){width=100, height=100}
+:::
+:::
+::: {.column width="80%"}
+::: {.justify}
+The SpICE R package implements the computation and visualisation of SpICE curves. 
+Its combines the individual conditional expectation plot (ICE-plot), a model-agnostic method for interpreting statistical learning models with spatial information. An ICE-plot extension is proposed in which spatial information is used as a restriction to define spatial ICE (SpICE) curves. 
+:::
+:::
+
+
+
+
 
 ## Shiny Apps
 
-Under construction
+- [PPforest_App](https://natydasilva.shinyapps.io/shinyppforest/): Interactive web app to explore  PPforest classifier for fishcatch data.
+
+- [PPtreebound_App](https://natyds.shinyapps.io/explorapp/): Interactive web app to explore the boundaries defined by  classification trees (PPtree, PPtreeExt and CART ) under different data simulation scenarios.
+
+- [CEIBAL_APP2](https://test.fcea.edu.uy/shiny-ceibal/): This is an interactive web app to explore the LMS data from primary schools in Uruguay (2018-2021). This is a test version of the app, which will be updated soon with new features.
+
+- [CEIBAL_APP1](http://164.73.240.157:3838/IESTA-CEIBAL/): This is an interactive web app to explore the LMS data from primary schools in Uruguay. 
+
+- [Mosquito_APP](https://natydasilva.shinyapps.io/shiny_msq/) This is the first Shiny app I developed, back in 2014, for a course project during my PhD. This app explores mosquito abundance data from Iowa (1994-2013).
+
 
 ## R community 
 
